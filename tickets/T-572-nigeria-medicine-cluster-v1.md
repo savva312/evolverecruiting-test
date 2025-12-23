@@ -1,12 +1,12 @@
 # T-572: Nigeria — Medicine/MD cluster v1 (competitors + playbook)
 
-Status: open
+Status: on-deck
 Type: content
 Priority: P0
 Dependencies: T-455, T-459, T-461
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

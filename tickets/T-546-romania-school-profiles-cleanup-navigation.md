@@ -1,12 +1,12 @@
 # T-546: Romania — school profile placeholder cleanup + navigation hardening
 
-Status: open
+Status: on-deck
 Type: qa
 Priority: P2
 Dependencies: T-308
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

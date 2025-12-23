@@ -1,12 +1,12 @@
 # T-521: Serbia — Seed `competitor-programs.csv` (tuition + intakes by competitor program)
 
-Status: open
+Status: on-deck
 Type: data
 Priority: P1
 Dependencies: (optional) T-453 (can be parallel)
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

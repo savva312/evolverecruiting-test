@@ -1,12 +1,12 @@
 # T-492: Romania — populate `countries/romania/data/entities/competitors.csv` (v1) + dictionary
 
-Status: open
+Status: on-deck
 Type: data
 Priority: P1
 Dependencies: T-155
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

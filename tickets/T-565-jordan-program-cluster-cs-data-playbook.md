@@ -1,12 +1,12 @@
 # T-565: Jordan — CS/Data/AI/Cyber cluster upgrade (competitors + local partners + playbook)
 
-Status: open
+Status: on-deck
 Type: content
 Priority: P1
 Dependencies: (none)
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A
