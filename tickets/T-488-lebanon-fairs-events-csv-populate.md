@@ -1,11 +1,11 @@
 # T-488: Lebanon — populate `fairs-events.csv` (sync with existing calendar + profiles)
 
-Status: on-deck
+Status: done
 Type: data
 Priority: P1
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
+Claimed-by: codex-gpt5
+Claimed-at: 2025-12-23T10:30:00Z
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -62,8 +62,11 @@ This turns the fairs/events work into an ops-ready dataset (filterable by season
 
 ## Acceptance criteria
 
-- [ ] Every row has `event_id`, `name`, `city`, `country`, `start_date` (or best-known approximation), `format`, and `as_of`.
-- [ ] Dates use ISO 8601 (`YYYY-MM-DD`) and unknown dates are left blank (not `TBD`).
-- [ ] `event_id` is stable, lowercase ASCII, and unique.
-- [ ] No files outside `Allowed write paths` were modified.
+- [x] Every row has `event_id`, `name`, `city`, `country`, `start_date` (or best-known approximation), `format`, and `as_of`.
+- [x] Dates use ISO 8601 (`YYYY-MM-DD`) and unknown dates are left blank (not `TBD`).
+- [x] `event_id` is stable, lowercase ASCII, and unique.
+- [x] No files outside `Allowed write paths` were modified.
 
+## Completion
+
+- Populated `countries/lebanon/data/entities/fairs-events.csv` with 15 Lebanon events mapped from the 2025–2026 calendar and profiles, including organizer, format, attendance, and notes references (2025-12-23).
