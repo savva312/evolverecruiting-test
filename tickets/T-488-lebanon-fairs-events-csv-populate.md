@@ -1,6 +1,6 @@
 # T-488: Lebanon — populate `fairs-events.csv` (sync with existing calendar + profiles)
 
-Status: on-deck
+Status: in-progress
 Type: data
 Priority: P1
 Dependencies: (none)
@@ -66,4 +66,3 @@ This turns the fairs/events work into an ops-ready dataset (filterable by season
 - [ ] Dates use ISO 8601 (`YYYY-MM-DD`) and unknown dates are left blank (not `TBD`).
 - [ ] `event_id` is stable, lowercase ASCII, and unique.
 - [ ] No files outside `Allowed write paths` were modified.
-
