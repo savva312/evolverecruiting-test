@@ -1,0 +1,5 @@
+regulator_id,name,level,domain,contact_name,contact_email,website,notes,as_of
+reg-bg-moe-001,Ministry of Education and Science,national,higher_education,,,"https://www.mon.bg","Sets national education policy; supervises NACID/NEAA and issues ordinances affecting recognition and documentation",2025-12-20
+reg-bg-nacid-001,National Center for Information and Documentation (NACID),national,recognition,,nacid@nacid.bg,"https://nacid.bg/en","Bulgarian ENIC-NARIC; runs recognition for foreign qualifications and apostille services via portal.nacid.bg/apostille.bg",2025-12-20
+reg-bg-neaa-001,National Evaluation and Accreditation Agency (NEAA),national,quality_assurance,,dkurulenko@neaa.government.bg,"http://www.neaa.government.bg","National QA/accreditation agency (EQAR-listed); accreditation decisions influence recognition/eligibility",2025-12-20
+reg-bg-mfa-001,Ministry of Foreign Affairs – Consular Affairs,national,other,,,"https://www.mfa.bg/en/consular-services","Publishes visa/travel guidance and coordinates legalization of public documents for use abroad",2025-12-20

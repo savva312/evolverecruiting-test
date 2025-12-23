@@ -1,0 +1,56 @@
+school_id,name,city,region,type,ownership,contact_name,contact_email,notes,as_of
+sch-gr-athens-isa-001,International School of Athens (ISA),Kifisia,Attica,international,private,,,IB DP; published upper-secondary fees around €14.5k (2025-2026); premium affordability proxy from 2025-12-21 report.,2025-12-21
+sch-gr-acs-athens-001,American Community Schools of Athens (ACS Athens),Chalandri,Attica,international,private_nonprofit,,,US HS + IB DP; published upper-secondary fees ≈€15.7k; strong Tier 1 affordability match.,2025-12-21
+sch-gr-pallini-cgs-001,Costeas-Geitonas School (CGS),Pallini,Attica,international,private,,,Greek Lyceum + IB DP; IB fees €13.3k–€13.6k; strong Tier 1 affordability proxy.,2025-12-21
+sch-gr-pierce-001,Pierce - The American College of Greece,Agia Paraskevi,Attica,international,private_nonprofit,,,Greek Lyceum + IB; IB fees ≈€13.9k; Tier 1 affordability signal.,2025-12-21
+sch-gr-athens-college-001,Athens College (Hellenic-American Educational Foundation),Psychiko,Attica,international,private_nonprofit,,,Greek Lyceum + IB DP; IB fees ≈€13.5k–€14k; premium Attica feeder.,2025-12-21
+sch-gr-psychiko-moraitis-001,The Moraitis School,Psychiko,Attica,international,private,,,IB DP verified; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-marousi-doukas-001,Doukas School,Marousi,Attica,international,private,,,IB DP verified; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-filothei-ionios-001,Ionios School,Filothei,Attica,international,private,,,IB DP verified; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-koropi-geitonas-001,Geitonas School,Koropi,Attica,international,private,,,IB DP verified; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-argyroupoli-ims-001,International Metropolitan School (IMS),Argyroupoli,Attica,international,private,,,IB authorized 2024; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-pallini-campion-001,Campion School,Pallini,Attica,international,private,,,British senior school (IGCSE/A-Levels); fees not published on official sources; Tier 2 pathway signal.,2025-12-21
+sch-gr-agia-paraskevi-lfh-001,Lycée Franco-Hellénique Eugène Delacroix,Agia Paraskevi,Attica,international,private,,,French lycée pathway; published 2025-2026 fees; Tier 2 pathway signal.,2025-12-21
+sch-gr-athens-st-catherines-001,St Catherine’s British School,Athens,Attica,international,private,,,IGCSE + IB DP; fees not published; Tier 2 pathway signal pending confirmation.,2025-12-21
+sch-gr-attica-arsakeio-001,Arsakeio Schools (Attica campuses),Psychiko,Attica,private_lyceum,private,,,Greek private Lyceum network; published Lyceum fees ≈€6.5k; Tier 3 fee-paying base.,2025-12-21
+sch-gr-athens-leonteios-001,Leonteios School of Athens (Lyceum),Athens,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-piraeus-jeanne-darc-001,Greek-French School Jeanne d’Arc (Lyceum),Piraeus,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-neo-psychiko-ursulines-001,Ursulines (Neo Psychiko) Lyceum,Neo Psychiko,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-kifisia-athinaiki-agogi-001,Athinaiki Agogi & Paideia (Lyceum),Kifisia,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-piraeus-themistoklis-001,“Themistoklis” Private Lyceum,Piraeus,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-piraeus-eps-001,E.p.S. Private Lyceum,Piraeus,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-athens-avgoulea-linardatou-001,Avgoulea-Linardatou Schools (Lyceum),Peristeri,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-athens-diamantopoulos-001,Diamantopoulos Schools (Lyceum),West Athens,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-athens-tsiamoulis-001,“Ioannis Tsiamoulis” Private Lyceum,West Athens,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-athens-nea-paideia-001,“Nea Paideia” Private Lyceum,West Athens,Attica,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 coverage target.,2025-12-21
+sch-gr-thermi-pinewood-001,Pinewood American International School of Thessaloniki,Thermi,Central Macedonia,international,private_nonprofit,,,US HS + AP + IB DP with boarding; published upper-secondary fees €13.45k–€13.75k (2025-2026); Tier 1 Thessaloniki target.,2025-12-21
+sch-gr-anatolia-college-001,Anatolia College / Anatolia High School,Pylaia,Central Macedonia,international,private_nonprofit,,,Greek Lyceum + IB DP; boarding ecosystem; fees not published as single figure; Tier 1/2 Thessaloniki target.,2025-12-21
+sch-gr-pylaia-dst-001,German School of Thessaloniki (DST),Pylaia-Chortiatis,Central Macedonia,international,private,,,German international pathway (DIA); fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-thessaloniki-eft-001,French School of Thessaloniki (EFT),Thessaloniki,Central Macedonia,international,private,,,French lycée pathway; fees not published; Tier 2 international-pathway target.,2025-12-21
+sch-gr-thermi-hellenic-college-001,Hellenic College of Thessaloniki,Thermi,Central Macedonia,private_lyceum,private,,,Greek Lyceum + marketed US dual diploma; fees not published; Tier 2/3 metro coverage.,2025-12-21
+sch-gr-thermi-mandoulides-001,Mandoulides Schools,Thermi,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-thermi-vassiliadis-001,Vassiliadis Schools,Thermi,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-neapoli-delasalle-001,De La Salle College Thessaloniki,Neapoli-Sykies,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-pavlos-melas-fryganioti-001,Fryganioti Schools,Pavlos Melas,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-thermi-aristoteleio-001,Aristoteleio College (Thessaloniki),Thermi,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-pylaia-american-farm-001,American Farm School (General High School),Pylaia-Chortiatis,Central Macedonia,private_lyceum,private_nonprofit,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage with boarding/agro focus.,2025-12-21
+sch-gr-pylaia-arsakeio-001,Arsakeio Schools Thessaloniki (Lyceum),Pylaia-Chortiatis,Central Macedonia,private_lyceum,private,,,Greek Lyceum; published Lyceum fee ≈€5.355k; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-pylaia-apostolos-pavlos-001,“O Apostolos Pavlos” Schools,Pylaia,Central Macedonia,private_lyceum,private,,,Greek Lyceum; fees not published; Tier 3 Thessaloniki metro coverage.,2025-12-21
+sch-gr-patras-arsakeio-001,Arsakeio General Lyceum of Patras,Patras,Western Greece,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-patras-anagennisi-001,Anagennisi Private General Lyceum (Patras),Patras,Western Greece,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-patras-themelio-001,Themelio EDU Private Lyceum,Patras,Western Greece,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-patras-trianteio-001,Trianteio Evening EPAL (Private),Patras,Western Greece,vocational,private,,,Private EPAL; evening program; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-larissa-raptou-001,"Private Lyceum ""M. N. Raptou, Center for Greek Education""",Larissa,Thessaly,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-larissa-bakogianni-001,N. Bakogianni Private Lyceum,Larissa,Thessaly,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-volos-promitheas-001,Promitheas Private General Lyceum of Volos,Volos,Thessaly,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-trikala-athena-001,"Athena Educational Institutions, Private Lyceum of Trikala",Trikala,Thessaly,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-ioannina-arsakeio-001,Arsakeio General Lyceum of Ioannina,Ioannina,Epirus,private_lyceum,private,,,Greek private Lyceum; published fees captured around €6.5k; Tier 3 regional coverage.,2025-12-21
+sch-gr-ioannina-dodonaia-001,Dodonaia Educational Institutions (Lyceum),Ioannina,Epirus,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-ioannina-zografio-001,Zografio Private Lyceum,Ioannina,Epirus,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-heraklion-pagkritio-001,"Pagkritio School, Private Lyceum",Heraklion,Crete,private_lyceum,private,,,Greek private Lyceum with international pathway signals; published A’ Lyceum fee ≈€7k; Tier 2/3 regional coverage.,2025-12-21
+sch-gr-chania-theodoropoulos-001,"Theodoropoulos Private Schools, Lyceum",Chania,Crete,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-kalamata-bougas-001,Bougas Educational Institutions,Kalamata,Peloponnese,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-katerini-platon-001,Platon Lyceum,Katerini,Central Macedonia,private_lyceum,private,,,Greek private Lyceum; fees not published; Tier 3 regional coverage.,2025-12-21
+sch-gr-rhodes-college-001,Rhodes College (Private Lyceum),Rhodes,South Aegean,private_lyceum,private,,,Greek private Lyceum; fees not captured; Tier 2/3 island coverage.,2025-12-21
+sch-gr-rhodes-rodion-paideia-001,"Rodion Paideia Educational Group, General Lyceum",Rhodes,South Aegean,private_lyceum,private,,,Greek private Lyceum; fees not captured; Tier 2/3 island coverage.,2025-12-21
+sch-gr-chios-teens-001,TEENS (Tsakos Hellenic Training Ship School) Private EPAL,Chios,North Aegean,vocational,private,,,Private maritime EPAL; specialized pathway; fees not published; Tier 2/3 island coverage.,2025-12-21

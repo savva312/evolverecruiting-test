@@ -1,0 +1,4 @@
+agent_id,name,region,services,contact_name,contact_email,primary_markets,notes,as_of
+ag-gr-studycare-001,StudyCare Greece,"Athens;Thessaloniki","counseling;applications;visa_support",,,Greece->Cyprus;Greece->EU,"Greek-owned agency with multi-city footprint; validate licensing status and appetite for UNIC Athens plus Cyprus placements.",2025-12-20
+ag-gr-educationusa-001,EducationUSA Greece (Fulbright),Athens,"advising;events",,,Greece->United_States,"Advising network rather than a commercial agency; map counselor relationships and event calendar for lead sourcing and credibility.",2025-12-20
+ag-gr-study-in-greece-001,Study in Greece (SiG) info desk,National,"information;events",,,Greece->EU;Greece->Cyprus,"Government-backed portal supporting internationalisation; clarify collaboration rules and whether outbound guidance to Cyprus/Greece can be co-hosted.",2025-12-20

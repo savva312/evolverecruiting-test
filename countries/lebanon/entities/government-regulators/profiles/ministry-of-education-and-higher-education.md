@@ -1,0 +1,9 @@
+# Ministry of Education and Higher Education (MEHE) — DGHE & Equivalence Committee
+
+- **Mandate:** National ministry overseeing K-12, vocational, and higher education policy. Through the Directorate General of Higher Education and the Equivalence Committee (Lebanon’s ENIC/NARIC function), it licenses universities and issues recognition/equivalency decisions for foreign secondary and tertiary credentials. 【https://www.mehe.gov.lb/en】【https://www.mehe.gov.lb/en/services】
+- **Relevance to UNIC/UNIC Athens:** Lebanese students may need degree equivalency from MEHE to enroll in regulated professions or pursue postgraduate study locally; UNIC/UNIC Athens recognition status is validated through MEHE’s university degree equivalency service.
+- **Key processes:** Applicants select the appropriate equivalency service (general, vocational, or university) and submit originals/attested copies of diplomas and transcripts, identification, and fee payment at MEHE’s front office; files are reviewed by the Equivalence Committee under DGHE with ministerial sign-off. No formal SLA is published; plan for several weeks of review and follow up if decisions are time-sensitive (assumption based on prior applicant experience—confirm with MEHE).
+- **Timelines / checkpoints:** Apply ahead of planned licensing/postgraduate deadlines; the service portal does not list processing time—build 4–8 weeks buffer and secure attested documents early (assumption; validate with hotline).
+- **Contact channels:** MEHE switchboard +961 1 772 000; “Contact Us” page and service links on the MEHE portal. 【https://www.mehe.gov.lb/en】【https://www.mehe.gov.lb/en/contact-us】
+- **last_checked:** 2025-12-20
+- **Sources:** MEHE homepage; MEHE service catalogue pages for equivalency. 【https://www.mehe.gov.lb/en】【https://www.mehe.gov.lb/en/services-details/25/University-Degree-Equivalencies】

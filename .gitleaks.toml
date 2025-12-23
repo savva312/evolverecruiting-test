@@ -1,0 +1,12 @@
+title = "Repo secret scanning (gitleaks)"
+
+# Start from the standard rules (best coverage).
+# This file exists mainly to:
+# - keep reports consistent
+# - add allowlists as you find false positives
+
+[extend]
+useDefault = true
+
+# Start without an allowlist. If you hit recurring false positives, add a non-empty
+# [allowlist] block with specific paths/regexes/commits/stopwords—never leave it empty.

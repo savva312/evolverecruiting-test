@@ -1,0 +1,2 @@
+event_roi_id,event_id,event_name,event_format,event_city,country,season,start_date,end_date,cost_currency,cost_total_local,fx_to_eur,cost_total_eur,leads_scanned,leads_qualified,applications,offers,deposits,starts,cost_per_qualified_lead_eur,cost_per_start_eur,campus,owner,data_source,notes,as_of
+example_2025_fall_sofia_education_fair,,EXAMPLE - Sofia education fair,in_person,Sofia,BG,2025-fall,2025-10-10,2025-10-10,EUR,2500,1,2500,300,180,25,12,6,4,13.89,625,both,Enrollment Ops,manual_entry,Example row with dummy numbers for schema illustration only.,2025-12-22

@@ -1,0 +1,4 @@
+regulator_id,name,level,domain,contact_name,contact_email,website,notes,as_of
+reg-ng-nuc-001,National Universities Commission,national,quality_assurance,,info@nuc.edu.ng,https://www.nuc.edu.ng/,"Publishes accreditation results; use to validate university/program status for Nigerian applicants.",2025-12-20
+reg-ng-mfa-001,Federal Ministry of Foreign Affairs,national,legalization,,info@foreignaffairs.gov.ng,https://foreignaffairs.gov.ng/services/legalization,"Legalises Nigerian public documents for foreign use via MFA portal; requires prior authentication from issuing authority.",2025-12-20
+reg-ng-nis-001,Nigeria Immigration Service,national,immigration,,nis.servicom@nigeriaimmigration.gov.ng,https://passport.immigration.gov.ng/,"Issues e-passports and manages travel documents; visa readiness depends on passport validity and appointment availability.",2025-12-20

@@ -1,0 +1,15 @@
+<svg width="320" height="52" viewBox="0 0 320 52" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UNIC + Evolve placeholder logo">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c8102e"/>
+      <stop offset="100%" stop-color="#9b0f23"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="8" width="52" height="36" rx="6" fill="url(#g)"/>
+  <path d="M10 12 h12 v20 c0 4 3 7 7 7s7-3 7-7V12h12v32c0 7-5 12-12 12H22C15 56 10 51 10 44V12Z" fill="#ffffff"/>
+  <path d="M21 12h12l-12 12z" fill="#c8102e"/>
+  <text x="66" y="30" font-family="Century Gothic, 'Gill Sans', 'Trebuchet MS', 'Noto Sans', sans-serif" font-size="18" font-weight="600" fill="#f2f2f2">UNIC</text>
+  <text x="112" y="30" font-family="Century Gothic, 'Gill Sans', 'Trebuchet MS', 'Noto Sans', sans-serif" font-size="14" font-weight="400" fill="#f2f2f2">|</text>
+  <text x="126" y="30" font-family="Century Gothic, 'Gill Sans', 'Trebuchet MS', 'Noto Sans', sans-serif" font-size="18" font-weight="600" fill="#f2f2f2">EVOLVE</text>
+  <text x="66" y="46" font-family="Century Gothic, 'Gill Sans', 'Trebuchet MS', 'Noto Sans', sans-serif" font-size="11" font-weight="400" fill="#cfd0d1">Combined logo placeholder – replace with final SVG</text>
+</svg>

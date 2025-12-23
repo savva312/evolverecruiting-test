@@ -1,0 +1,5 @@
+regulator_id,name,level,domain,contact_name,contact_email,website,notes,as_of
+reg-rs-moe-001,Ministry of Education,national,higher_education,,,https://www.mpn.gov.rs,"Sets education policy; hosts ENIC/NARIC Serbia for academic recognition; oversees scholarships and bilateral agreements.",2025-12-20
+reg-rs-nea-001,National Entity for Accreditation and Quality Assurance in Higher Education (NEAQA),national,quality_assurance,,,https://www.nat.rs/?lang=en,"Accredits higher-education institutions and programs; publishes QA decisions and registers.",2025-12-20
+reg-rs-enic-001,ENIC/NARIC Serbia,national,recognition,,,https://www.enic-naric.net/serbia.aspx,"Handles academic recognition of foreign HE qualifications; standard decision window up to ~60 days after complete filing.",2025-12-20
+reg-rs-mup-001,Ministry of Interior – Directorate for Foreigners,national,other,,,https://www.mup.gov.rs/wps/portal/en/directions/for+foreigners,"Issues visas/temporary residence and residence cards for foreigners; student stay decisions usually within 30 days.",2025-12-20

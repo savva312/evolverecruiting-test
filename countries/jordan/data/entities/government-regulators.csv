@@ -1,0 +1,4 @@
+regulator_id,name,level,domain,contact_name,contact_email,website,notes,as_of
+reg-jo-mohesr,Ministry of Higher Education and Scientific Research,national,higher_education,Unified Admission Directorate,info@mohe.gov.jo,https://mohe.gov.jo/,Sets Tawjihi minima and public university seat allocation; issues foreign degree approvals.,2026-02-04
+reg-jo-moe,Ministry of Education,national,secondary,Equivalency Unit,info@moe.gov.jo,https://moe.gov.jo/,Licenses schools; sets Tawjihi and equivalency rules for IB/A-level/AP.,2026-02-04
+reg-jo-aqache,Accreditation and Quality Assurance Commission for Higher Education Institutions,national,quality_assurance,,info@aqache.gov.jo,https://www.aqache.gov.jo/,Evaluates programmes and recognizes foreign providers; key for CY/GR credential recognition.,2026-02-04

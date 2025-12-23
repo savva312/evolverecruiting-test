@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: canonicalize-markdown
+        name: Canonicalize Markdown formatting
+        entry: python scripts/canonicalize_md.py --fix
+        language: system
+        pass_filenames: true
+        files: "\\.md$"

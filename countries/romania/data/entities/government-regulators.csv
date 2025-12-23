@@ -1,0 +1,5 @@
+regulator_id,name,level,domain,contact_name,contact_email,website,notes,as_of
+reg-ro-min-education-001,Ministry of Education,national,higher_education,,,"https://www.edu.ro/","Sets education policy; oversees CNRED recognition orders and ARACIS QA standards; contact via Ministry portal.",2025-12-20
+reg-ro-cnred-001,CNRED (National Center for Recognition and Equivalence of Diplomas),national,recognition,,cnred@edu.gov.ro,"https://www.cnred.edu.ro/en","Recognition/equivalence of foreign diplomas; EU/EEA streamlined; standard decision target 30 days once file complete.",2025-12-20
+reg-ro-aracis-001,ARACIS (Romanian Agency for Quality Assurance in Higher Education),national,quality_assurance,,secretariat@aracis.ro,"https://www.aracis.ro/","External QA and accreditation for universities/programs; standards inform joint-program approvals and benchmarking.",2025-12-20
+reg-ro-mae-legalization-001,Ministry of Foreign Affairs – Consular Department (Legalization Office),national,other,,legalizari@mae.ro,"https://www.mae.ro/en/node/30320","Legalizes Romanian documents for non-Hague states; publishes apostille guidance and country coverage lists.",2025-12-20

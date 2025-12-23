@@ -1,0 +1,10 @@
+# General Directorate of General Security (GDGS)
+
+- **Mandate:** Lebanon’s interior security agency handling entry visas, residency permits, and passport issuance for foreigners and Lebanese. Controls student entry visas and subsequent residency permits for study stays beyond one month. 【https://www.general-security.gov.lb/en/posts/239】
+- **Relevance to UNIC/UNIC Athens:** Lebanese outbound students rely on valid passports and exit controls; GDGS also sets visa/residency rules for foreign students entering Lebanon (useful for mobility partnerships or exchange pathways). Certain nationalities require prior security authorization.
+- **Key processes:** For student visas/residency (religious and academic programs), universities must request prior authorization from GDGS; applicants apply at a regional GDGS bureau within one month of arrival with enrollment attestation specifying degree type and duration, proof of progressing year by year, and valid travel documents. Visa must be requested one month before the academic year; residency can be multi-entry and renewed annually. Exclusions for select nationalities are currently listed on GDGS guidance.
+- **Timelines / checkpoints:** Entry visa issued for one month before arrival; residency application is due after the first month in-country. Processing times are not published—plan for several weeks and track authorization before travel (assumption based on agency practice; verify with GDGS bureau).
+- **Fees and restrictions:** GDGS lists student visa/residency fees of 10,000,000 LBP; certain nationalities are temporarily excluded; students cannot repeat a study year more than once or sponsor dependents. 【https://www.general-security.gov.lb/en/posts/239】
+- **Contact channels:** Central Direction (Adliyeh, Sami El Solh Street) switchboard +961 1 386610 / +961 1 425610; regional bureaus handle applications. 【https://www.general-security.gov.lb/en/posts/239】
+- **last_checked:** 2025-12-20
+- **Sources:** GDGS official guidance on visas/residency for students/volunteers/missionaries. 【https://www.general-security.gov.lb/en/posts/239】

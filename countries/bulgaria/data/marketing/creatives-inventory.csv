@@ -1,0 +1,31 @@
+creative_id,channel,format,theme,hook,cta,asset_link,notes,status,as_of
+cr-bg-facebook_ads-2025-12-001,facebook_ads,carousel,tuition_value,Диплома в ЕС без британските такси,Виж таксите и стипендиите,,Show tuition in EUR; add scholarship badge; Bulgaria-first copy,draft,2025-12-22
+cr-bg-facebook_ads-2025-12-002,facebook_ads,lead_form,application_speed,Кандидатстване за 5 минути,Попълни кратката форма,,Instant form 5-7 fields; GDPR consent text; 48h response promise,test,2025-12-22
+cr-bg-facebook_ads-2025-12-003,facebook_ads,reel,medicine_recognition,Медицина в ЕС с ясна пътека за признаване,Запази консултация,,Vertical 9:16; Bulgarian captions; mention recognition pathway; avoid placement guarantees,draft,2025-12-22
+cr-bg-instagram-2025-12-004,instagram,reel,athens_vs_nicosia_choice,Атина или Никозия за твоето обучение,Вземи виртуална обиколка,,Split-screen campuses; end card shows both intakes,test,2025-12-22
+cr-bg-instagram-2025-12-005,instagram,story,scholarships_merit,Стипендии за силни оценки,Провери условията,,Story sequence 3 cards; show scholarship range; add deadline sticker,draft,2025-12-22
+cr-bg-instagram-2025-12-006,instagram,carousel,student_life_value,Студентски живот в ЕС на разумен бюджет,Виж живота в кампуса,,Highlight housing options; cost-of-living framing; Bulgarian-first copy,draft,2025-12-22
+cr-bg-google_search-2025-12-007,google_search,text_ad,brand_program_search,Учи на английски в ЕС с UNIC,Кандидатствай онлайн,,RSA Bulgarian; sitelinks Athens campus and Nicosia campus,test,2025-12-22
+cr-bg-google_search-2025-12-008,google_search,text_ad,athens_campus_search,UNIC Athens програми на английски,Виж програмите,,RSA; emphasize Athens location and EU lifestyle; add tuition sitelink,draft,2025-12-22
+cr-bg-google_search-2025-12-009,google_search,text_ad,nicosia_campus_search,UNIC Nicosia програми на английски,Виж програмите,,RSA; emphasize campus support and housing; add scholarships sitelink,draft,2025-12-22
+cr-bg-google_search-2025-12-010,google_search,text_ad,medicine_search,Медицина в ЕС близо до България,Запази разговор,,Exact and phrase match; add recognition and admissions sitelinks,test,2025-12-22
+cr-bg-google_search-2025-12-011,google_search,text_ad,scholarship_search,Стипендии и отстъпки за кандидати от България,Виж стипендиите,,Use fee and scholarship extensions if available; keep claims precise,draft,2025-12-22
+cr-bg-google_search-2025-12-012,google_search,text_ad,transfer_search,Прехвърли кредити ECTS без пауза,Провери кредитите,,Target transfer intent; landing page with quick pre-assessment form,draft,2025-12-22
+cr-bg-google_display-2025-12-013,google_display,responsive_display,remarketing_fees,Виж такси и стипендии за ЕС диплома,Виж таксите,,Remarketing 30d; responsive headlines Bulgarian+English; exclude converters,test,2025-12-22
+cr-bg-google_display-2025-12-014,google_display,display_banner,remarketing_virtual_tour,Виртуална обиколка на кампуса за 2 минути,Виж тура,,Remarketing 14d; banner set 300x250 728x90 160x600; use QR in visuals,draft,2025-12-22
+cr-bg-google_display-2025-12-015,google_display,responsive_display,remarketing_deadlines,Запази място за есенния прием,Резервирай разговор,,Update date copy weekly; pair with counselor booking flow,draft,2025-12-22
+cr-bg-google_display-2025-12-016,google_display,display_banner,diaspora_nearby,Учи в Атина и бъди близо до дома,Научи повече,,Target diaspora and Greece travel intent; Athens campus emphasis,draft,2025-12-22
+cr-bg-youtube-2025-12-017,youtube,video,athens_vs_nicosia_video,Атина или Никозия за 15 секунди,Вземи виртуална обиколка,,Skippable 15s; Bulgarian subtitles; end screen with campus choices,test,2025-12-22
+cr-bg-youtube-2025-12-018,youtube,shorts,medicine_outcome_proof,Пътят до лекар в ЕС,Запази консултация,,Shorts 9:16; Bulgarian captions; include disclaimer on outcomes,draft,2025-12-22
+cr-bg-youtube-2025-12-019,youtube,video,career_outcomes_cs,Tech кариера в ЕС започва с UNIC,Виж програмата,,In-stream 30s; show labs and student projects; add internship mention,draft,2025-12-22
+cr-bg-youtube-2025-12-020,youtube,video,parent_reassurance,Общежитие и безопасност за родители,Изтегли родителския гид,,Target parents 35-55; Bulgarian voiceover; highlight support services,draft,2025-12-22
+cr-bg-youtube-2025-12-021,youtube,shorts,scholarship_explainer,Как работят стипендиите в UNIC,Виж стипендиите,,Shorts cutdown; show scholarship steps; avoid absolute promises,test,2025-12-22
+cr-bg-tiktok-2025-12-022,tiktok,video,athens_lifestyle_ugc,От София до Атина за уикенда,Вземи виртуална обиколка,,UGC style; 15-20s; Bulgarian captions; safe-zone text,test,2025-12-22
+cr-bg-tiktok-2025-12-023,tiktok,video,cost_value,ЕС диплома без западноевропейските разходи,Виж таксите,,On-screen tuition EUR; scholarship badge; include campus label,draft,2025-12-22
+cr-bg-tiktok-2025-12-024,tiktok,lead_form,application_speed,5 минути кандидатстване за UNIC,Попълни кратката форма,,Native lead form; pre-fill on; confirm privacy link in ad,test,2025-12-22
+cr-bg-tiktok-2025-12-025,tiktok,video,student_projects,Real projects още първата година,Разбери за стажовете,,Show project clips; fast cuts; caption in Bulgarian; keep text <20 words,draft,2025-12-22
+cr-bg-tiktok-2025-12-026,tiktok,video,exam_timing,След матурите започни без губене на година,Резервирай разговор,,Align copy with BG exam calendar; refresh annually; rolling intake framing,draft,2025-12-22
+cr-bg-linkedin-2025-12-027,linkedin,document_ad,parent_guide,Родителски гид за обучение в ЕС,Изтегли гида,,Target parents 35-55; Bulgarian+English PDF versions; lead gen form,test,2025-12-22
+cr-bg-linkedin-2025-12-028,linkedin,document_ad,counselor_toolkit,Counselor toolkit for UNIC Bulgaria,Request the pack,,Target counselors and school leaders; include recognition and deadlines one-pager,draft,2025-12-22
+cr-bg-linkedin-2025-12-029,linkedin,single_image,employability,Internships and career outcomes in the EU,Book a webinar,,Target educators and parents; avoid salary guarantees; include alumni proof points,draft,2025-12-22
+cr-bg-linkedin-2025-12-030,linkedin,single_image,medicine_info_session,Medical studies info session for parents,Register,,Target parent groups; clear agenda; compliance safe claims; follow-up email,draft,2025-12-22

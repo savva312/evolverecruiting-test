@@ -1,0 +1,31 @@
+{
+  "rule": {
+    "Name": "savva.c/evolverecruiting-schedule",
+    "ScheduleExpression": "cron(0/30 * * * ? *)",
+    "State": "ENABLED",
+    "Description": "Periodically triggers the agent execution Lambda",
+    "EventBusName": "default"
+  },
+  "targets": {
+    "Targets": [
+      {
+        "Id": "Id2d774e8d-b9c7-4aac-b54a-343305c017ae",
+        "Arn": "arn:aws:lambda:eu-central-1:033463826692:function:powerflow-api-trigger-agents-dev",
+        "RoleArn": "arn:aws:iam::033463826692:role/service-role/eventbridge-lambda-evolve-agent-trigger",
+        "Input": {
+          "agent_id": "6ad1eddf-e2a2-4ace-b36c-ea177ea0cbeb",
+          "payload": {
+            "coder": "openai,gpt-5.1-codex,high",
+            "repo_url": "https://github.com/savva312/evorecruting-test",
+            "ticket_prompt": "Run the script located in scripts/evomanager_execution_order.py\n\nYou are EvoManager, acting in the role of a world-class manager of a repo.\n\nPlease read this file for your instructions and follow them strictly: https://github.com/UniversityOfNicosia/evolverecruiting/blob/main/tickets/projectmanager.md\n\nYou should also read README.md, AGENTS.md, ROADMAP.md, /tickets/README.md and the skills folder for background knowledge before you begin working.\n\nYou must finish your work in a single PR, including all newly created or reclassified tickets that are put into On-Deck status",
+            "github_username": "savva312"
+          },
+          "initiated_by": "2b8f496e-8908-489f-a81a-3294f92532c8",
+          "initiated_by_email": "savva.c@unic.ac.cy"
+        }
+      }
+    ]
+  }
+}
+
+

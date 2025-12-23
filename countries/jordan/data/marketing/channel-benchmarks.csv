@@ -1,0 +1,5 @@
+channel,metric,value,unit,source_period,sample_size,notes,as_of
+facebook_ads,cpl_eur,6.50,EUR,2025-Q4,1800,Arabic + English lead gen to Amman 17-24; guardrail from pilot.,2026-02-04
+google_search,cpc_eur,0.82,EUR,2025-Q4,1200,Brand + program terms in Arabic/English; costs spike near Tawjihi results.,2026-02-04
+tiktok,cpl_eur,5.40,EUR,2025-Q4,950,Video lead forms for STEM/medicine creatives; requires weekly creative refresh.,2026-02-04
+youtube,ctr,0.012,%,2025-Q4,600,In-stream awareness with Arabic captions; use for retargeting lists.,2026-02-04

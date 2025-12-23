@@ -1,0 +1,13 @@
+agent_id,name,region,services,contact_name,contact_email,primary_markets,notes,as_of
+ag-ng-lagos-idp,IDP Education Nigeria,Lagos,placements;visa_support;events;application_editing;test_prep,,,UK;AU;CA;US;CY;GR,tier_1;ielts-pipeline;needs-gr-visa-refresh;ndpa-consent-check,2025-12-20
+ag-ng-lagos-pfl,PFL Education,Lagos,placements;visa_support;events;scholarship_guidance,,,UK;CA;IE;US;CY;GR,tier_1;large-fairs;in-house-visa-desk;monitor-pof-ethics,2025-12-20
+ag-ng-lagos-bcie,BCIE,Lagos,placements;visa_support;events;application_editing;scholarship_guidance,,,UK;CA;AU;US;CY;GR,tier_1;spot-admission-days;document-vetting;align-licensure-messaging,2025-12-20
+ag-ng-lagos-si-uk,SI-UK Nigeria,Lagos,placements;visa_support;events;application_editing;test_prep,,,UK;IE;CA;CY;GR,tier_1;uk-first-mindset;train-cy-gr-visa-and-post-study-rights,2025-12-20
+ag-ng-lagos-maple-education,Maple Education Canada Inc. (Nigeria),Lagos,placements;visa_support;events;application_editing;scholarship_guidance,,,CA;UK;US;CY;GR,tier_1;canada-centric;rcic-partners;needs-cy-gr-process-training,2025-12-20
+ag-ng-lagos-ahz-associates,AHZ Associates Nigeria,Lagos,placements;visa_support;events;application_editing,,,UK;CA;CY;GR,tier_2;uk-admission-days;pop-ups-abuja-ph;avoid-psw-overpromising,2025-12-20
+ag-ng-lagos-imperial-ed-services,Imperial Educational Services (IES),Lagos,placements;visa_support;events;application_editing;scholarship_guidance,,,UK;CA;US;CY;GR,tier_2;partner-counselors;validate-volume-claims;embed-cy-gr-requirements,2025-12-20
+ag-ng-lagos-capstone-education,Capstone Education Nigeria,Lagos,placements;visa_support;events;application_editing;test_prep,,,UK;CA;US;CY;GR,tier_2;social-led-leadgen;needs-pof-authenticity-guardrails;eu-niche,2025-12-20
+ag-ng-lagos-lekkiside,LekkSide Education,Lagos,placements;visa_support;events;application_editing;scholarship_guidance,,,UK;CA;US;CY;GR,tier_2;health-it-focus;monitor-statement-packaging;ndpa-consent-needed,2025-12-20
+ag-ng-abuja-avanti,Avanti International Consult,Abuja,placements;visa_support;events;application_editing;scholarship_guidance,,,UK;CA;US;CY;IE;GR,tier_3;northern-nigeria-reach;small-team;avoid-proxy-interviews,2025-12-20
+ag-ng-lagos-global-education-consultants,Global Education Consultants (Nigeria),Lagos,placements;visa_support;events;application_editing;scholarship_guidance,,,UK;CA;US;CY;GR,tier_3;boutique;needs-gr-visa-training;verify-cac-and-ndpa-consent,2025-12-20
+ag-ng-nationwide-educationusa,EducationUSA Nigeria,Nationwide,events;scholarship_guidance,,,US,non-commission;informational-only-collaboration;high-webinar-reach,2025-12-20
