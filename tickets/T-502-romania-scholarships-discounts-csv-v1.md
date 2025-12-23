@@ -1,12 +1,12 @@
 # T-502: Romania — populate scholarships/discounts dataset (UNIC Nicosia + UNIC Athens)
 
-Status: open
+Status: on-deck
 Type: data
 Priority: P0
 Dependencies: (none)
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

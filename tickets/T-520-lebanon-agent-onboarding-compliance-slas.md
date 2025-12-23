@@ -1,12 +1,12 @@
 # T-520: Lebanon — complete agent playbook (onboarding + compliance + SLAs)
 
-Status: open
+Status: on-deck
 Type: integration
 Priority: P1
 Dependencies: T-445 (recommended)
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A

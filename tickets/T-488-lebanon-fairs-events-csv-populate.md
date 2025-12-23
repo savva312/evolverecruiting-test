@@ -1,12 +1,12 @@
 # T-488: Lebanon — populate `fairs-events.csv` (sync with existing calendar + profiles)
 
-Status: open
+Status: on-deck
 Type: data
 Priority: P1
 Dependencies: (none)
 Claimed-by:
 Claimed-at:
-Last-updated: 2025-12-22
+Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A
