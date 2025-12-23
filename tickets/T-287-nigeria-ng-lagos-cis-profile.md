@@ -1,6 +1,6 @@
 # T-287: Nigeria — Children’s International School (CIS) world-class profile build
 
-Status: on-deck
+Status: in-progress
 Type: content
 Priority: P1
 Dependencies: T-026-high-school-profile-template
