@@ -1,6 +1,6 @@
 # T-488: Lebanon — populate `fairs-events.csv` (sync with existing calendar + profiles)
 
-Status: on-deck
+Status: in-progress
 Type: data
 Priority: P1
 Dependencies: (none)
