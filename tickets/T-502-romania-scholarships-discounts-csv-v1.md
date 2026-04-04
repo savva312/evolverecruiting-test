@@ -1,11 +1,12 @@
 # T-502: Romania — populate scholarships/discounts dataset (UNIC Nicosia + UNIC Athens)
 
-Status: on-deck
+Status: done
 Type: data
 Priority: P0
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
+Claimed-by: codex-20251223-1
+Claimed-at: 2025-12-23
+Completed-at: 2025-12-23
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -68,8 +69,14 @@ Existing in-repo references:
 
 ## Acceptance criteria
 
-- [ ] Every row has a clear source reference (URL or repo path) and a `last_verified`/`as_of` date (define which in dictionary).
-- [ ] Campus is explicitly captured (`unic_nicosia` vs `unic_athens`) and any program exclusions are explicit.
-- [ ] Dictionary matches dataset exactly.
-- [ ] No edits outside allowed paths.
+- [x] Every row has a clear source reference (URL or repo path) and a `last_verified`/`as_of` date (define which in dictionary).
+- [x] Campus is explicitly captured (`unic_nicosia` vs `unic_athens`) and any program exclusions are explicit.
+- [x] Dictionary matches dataset exactly.
+- [x] No edits outside allowed paths.
 
+---
+
+## Completion
+
+- Populated `countries/romania/data/programs/scholarships-discounts.csv` with 21 rows covering UNIC Nicosia and UNIC Athens plus Romania-specific constraints, source links, and an `as_of` date.
+- Updated `countries/romania/data/programs/scholarships-discounts-dictionary.md` to document the new `campus` field and range/other amount rules so the CSV stays in-sync.
