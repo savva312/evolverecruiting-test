@@ -1,6 +1,6 @@
 # Deposit deadlines
 
-- **Last updated:** 2025-12-20  
+- **Last updated:** 2025-12-23  
 - **Owners:** Admissions Ops (UNIC Nicosia); Admissions Ops (UNIC Athens) — accountable; Country Recruiter Jordan — support
 
 ## Jordan-specific principles
@@ -25,11 +25,32 @@
 - Shorten by ~3–5 days because students already graduated.  
 - Target Day 10 deadline for all programs; single escalation on Day 14 before seat release on Day 17.
 
-## Visa/arrival dependencies (assumptions)
+## Visa + residence checkpoints (compliance)
 
-- Jordanian/EU passport holders: **no entry visa** for Cyprus or Greece; still need enrollment letter + insurance proof for residence registration after arrival.  
-- Non-EU residents in Jordan: deposit and unconditional acceptance required to issue visa support letters; consulate booking may take 3–4 weeks.  
-- Proof of deposit is required before issuing: final acceptance letter, accommodation confirmation, and arrival welcome pack.
+`last_verified: 2025-12-23` — Always instruct families to confirm requirements with the Cyprus Embassy in Amman or the Greek Consular Office before booking travel.
+
+### UNIC Nicosia (Cyprus)
+
+- **Jordanian passport holders need a visa** according to the Cyprus Ministry of Foreign Affairs’ visa-required list, so never promise “visa-free” travel for Cyprus. [Source](https://www.gov.cy/mfa/en/documents/countries-whose-nationals-are-required-to-hold-a-visa-to-enter-the-republic-of-cyprus/)  
+- **Application path:** Students in Jordan work through the Embassy of Cyprus in Amman, which coordinates appointments and may direct applicants to its contracted submission partner. Share embassy contact details (phone +962 6 565 7467 / embassy.amman@mfa.gov.cy) in every deposit confirmation so families know where to request slots. [Source](https://www.gov.cy/mfa/en/jordan/)  
+- **Core documentation for the student visa + temporary residence permit:** unconditional admission letter, proof of sufficient funds and paid tuition deposit, valid passport (6+ months), housing proof, medical certificates, health insurance, and police clearance. These are mandated by the EU Immigration Portal’s Cyprus guidance—Admissions Ops should use its checklist to QA student packets. [Source](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/student-cyprus_en)  
+- **EU/EEA citizens (including those residing in Jordan) do not need an entry visa**, but they must submit the MEU1 (“yellow slip”) residence application to the Civil Registry & Migration Department within three months of arrival; track this in CRM tasks. [Source](https://www.ucy.ac.cy/internationalsupport/eu-citizens/residence-permit/)  
+
+### UNIC Athens (Greece)
+
+- **Jordanian passport holders require both a Schengen visa for short stays and a Greek national visa (Type D – studies) for degree programmes.** Jordan is listed among the countries that must hold a visa under Regulation (EU) 2018/1806, and Greek university guidance reiterates the Type D requirement. [Sources](https://www.legislation.gov.uk/eur/2018/1806/annexes/2020-12-31) | [https://issu.uoa.gr/guide_for_non_eu_students/study_permit/applying_for_a_permit/](https://issu.uoa.gr/guide_for_non_eu_students/study_permit/applying_for_a_permit/)  
+- **Where to apply:** Students in Jordan submit through the Consular Office of Greece in Amman (grcon.amn@mfa.gr) or as directed by VFS Global; include deposit proof, housing letters, proof of funds, insurance, medical certificates, and a clean criminal record. [Source](https://www.mfa.gr/missionsabroad/en/jordan-en/about-us/contact.html)  
+- **Post-arrival:** Third-country students must file their residence-permit-for-studies application with the Hellenic Ministry of Migration & Asylum within 90 days of landing; missing the window forces a new visa cycle. [Source](https://issu.uowm.gr/apply-for-residence-permit/)  
+- **EU/EEA citizens in Greece** still have to register with the local Aliens Department within 90 days to obtain the residence certificate; keep this reminder in Athens welcome emails. [Source](https://develop.thisisathens.org/en/live-in-athens/social-inclusion/register)  
+
+### Deposit gating + CRM tasks
+
+- Do not issue unconditional acceptance letters, visa support kits, or housing confirmations until the tuition deposit posts and KYC checks are clear.
+- When logging a deposit, add the “Visa Docs Released” checkbox in CRM to confirm the student received the correct campus-specific visa pack.
+- If a family claims “visa-free,” send the compliance summary above and request embassy proof before escalating; inaccurate advice is now a denial-of-boarding risk.
+- Add this footer to every deposit receipt: “Visa and residence decisions are made solely by the Government of Cyprus or the Hellenic Republic. Always verify requirements directly with the relevant embassy/consulate before travel.”
+
+**Primary sources (last_verified 2025-12-23):** Cyprus Ministry of Foreign Affairs; Cyprus external service provider directory (VFS); EU Immigration Portal (Cyprus); University of Cyprus International Support Office; EU Regulation 2018/1806; National & Kapodistrian University of Athens visa guidance; Greek Consulate in Amman; University of Western Macedonia ISSU; This Is Athens (Aliens Bureau guidance).
 
 ## Escalation rules and channels
 

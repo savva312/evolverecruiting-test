@@ -1,11 +1,11 @@
 # T-501: Jordan — correct offerholder visa/residence assumptions (Cyprus + Greece)
 
-Status: on-deck
+Status: done
 Type: content
 Priority: P0
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
+Claimed-by: run-20251223-codex
+Claimed-at: 2025-12-23
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -65,8 +65,12 @@ These documents must be treated as compliance-sensitive:
 
 ## Acceptance criteria
 
-- [ ] No statements claim or imply Jordanian nationals are visa-free for Cyprus/Greece unless a primary source is linked and the claim is accurate.
-- [ ] All visa/residence guidance is clearly separated by campus (Cyprus vs Greece) and by applicant type where relevant (Jordanian nationals vs EU nationals residing in Jordan).
-- [ ] No fake/placeholder domains remain (e.g., `example`, `example.com`, `*.example`).
-- [ ] The docs include primary-source links (embassy/consulate/government pages) and `last_verified` dates for the most important claims.
+- [x] No statements claim or imply Jordanian nationals are visa-free for Cyprus/Greece unless a primary source is linked and the claim is accurate.
+- [x] All visa/residence guidance is clearly separated by campus (Cyprus vs Greece) and by applicant type where relevant (Jordanian nationals vs EU nationals residing in Jordan).
+- [x] No fake/placeholder domains remain (e.g., `example`, `example.com`, `*.example`).
+- [x] The docs include primary-source links (embassy/consulate/government pages) and `last_verified` dates for the most important claims.
 
+## Completion notes (2025-12-23)
+
+- Replaced outdated “visa-free” language in both Jordan offerholder docs with embassy-cited visa/residence workflows for Cyprus (UNIC Nicosia) and Greece (UNIC Athens), including `last_verified` callouts.
+- Added government/EU links, consulate contact details, and compliance boilerplate; removed all placeholder email domains.
