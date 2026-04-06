@@ -10,3 +10,12 @@ This folder centralizes profiles for organizations that influence Greek student 
 - `competitors/` – other universities and providers recruiting in Greece.
 
 Add short, factual entries with sources where possible. Link to related go-to-market tactics when available.
+
+## Stakeholder coverage status
+
+The current Greece stakeholder audit lives in [stakeholder-coverage.md](./stakeholder-coverage.md). It rates every mandatory stakeholder group and includes backlog-ready ticket ideas for EvoManager.
+
+Immediate focus areas:
+- Employer and industry linkage mapping is still a true gap; there is no dedicated Greece entity register yet.
+- Digital-channel coverage needs operational datasets and benchmarks, not just the existing playbook stub.
+- Schools and agents need QA and data-sync passes so the strong narrative coverage becomes reporting-ready.
