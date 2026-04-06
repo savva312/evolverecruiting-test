@@ -1,12 +1,12 @@
 # T-591: Greece — Stakeholder coverage audit + backlog plan
 
-Status: on-deck
+Status: in-progress
 Type: qa
 Priority: P0
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
-Last-updated: 2025-12-23
+Claimed-by: 02ba1f0f-ecc8-4492-8fcd-80706ca94032
+Claimed-at: 2026-04-06T09:24:17Z
+Last-updated: 2026-04-06
 Agent: EvoTicket Resolver
 
 ---
@@ -56,3 +56,9 @@ The Greece sprint in `tickets/projectmanager.md` calls for a structure audit and
 - [ ] At least three well-scoped follow-up ticket recommendations are recorded, each with a one-line scope description and suggested allowed paths.
 - [ ] `countries/greece/entities/README.md` references the new coverage file and highlights short-term focus priorities.
 - [ ] No edits occur outside allowed write paths.
+
+## Worker notes
+
+- 2026-04-06: Added `countries/greece/entities/stakeholder-coverage.md` as the Greece control artifact for stakeholder health, evidence links, and backlog-ready follow-up tickets.
+- 2026-04-06: Updated `countries/greece/entities/README.md` with a stakeholder coverage status section and immediate Greece priorities.
+- 2026-04-06: Local ticket kept `in-progress`; terminal lifecycle changes remain with the outer worker harness and Ticket API flow.
