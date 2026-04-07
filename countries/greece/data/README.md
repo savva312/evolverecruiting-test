@@ -2,6 +2,8 @@
 
 This folder houses structured, machine-readable datasets to support recruiting operations for UNIC and UNIC Athens from Greece. All CSVs should use UTF-8 encoding with headers in the first row. Prefer narrow, tidy tables with clear data dictionaries in adjacent notes when fields are non-obvious.
 
+For a live catalog of Greece datasets and notes, see the [data index](./index.md).
+
 ## Structure
 
 - `entities/` — canonical lists of ecosystem actors (schools, agents, regulators, NGOs/SGOs, fairs/events, competitors).
@@ -21,3 +23,9 @@ This folder houses structured, machine-readable datasets to support recruiting o
 Use [`field-standards.md`](./field-standards.md) for shared columns (IDs, dates, currencies, booleans) before adding new tables. Add Greece-specific dictionaries alongside each CSV as you populate this area (e.g., `entities/schools-dictionary.md`, `marketing/keywords-dictionary.md`). Mirror the Bulgaria structure for consistency, but keep definitions Greece-scoped.
 
 The UNIC program inventory is centralized at [`../../UNIC/data/programs/unic-programs.csv`](../../UNIC/data/programs/unic-programs.csv) with its schema at [`../../UNIC/data/programs/unic-programs-dictionary.md`](../../UNIC/data/programs/unic-programs-dictionary.md); reference that shared file instead of creating a local copy here.
+
+## Immediate follow-up data actions
+
+- Assign named owners and confirm freshness for each dataset in the [data index](./index.md), especially `entities/schools.csv` and `entities/agents.csv`.
+- Create and link per-table dictionary files (starting with schools, agents, regulators, and NGOs/SGOs) so column meanings stay consistent with the global data-model Skill.
+- Decide on first marketing and operations datasets for Greece (e.g., channel benchmarks, campaign calendar) and open tickets to populate those tables using the shared field standards.
