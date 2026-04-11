@@ -88,7 +88,7 @@ This is a convenience list. The canonical priority order lives in `ROADMAP.md`.
 - [Lebanon — refresh `data/README.md` (index + “what’s filled” scoreboard)](T-580-lebanon-data-readme-refresh.md)
 - [Nigeria — Business/Finance/Accounting/Marketing cluster v1 (competitors + playbook)](T-581-nigeria-business-cluster-v1.md)
 
-## on-deck (17 tickets)
+## on-deck (16 tickets)
 - [Nigeria — Children’s International School (CIS) world-class profile build](T-287-nigeria-ng-lagos-cis-profile.md)
 - [Lebanon — populate `fairs-events.csv` (sync with existing calendar + profiles)](T-488-lebanon-fairs-events-csv-populate.md)
 - [Romania — populate `countries/romania/data/entities/competitors.csv` (v1) + dictionary](T-492-romania-competitors-csv-v1.md)
@@ -104,12 +104,12 @@ This is a convenience list. The canonical priority order lives in `ROADMAP.md`.
 - [Lebanon — build Medicine competitor set (program list + ops-ready dataset)](T-551-lebanon-medicine-competitor-programs.md)
 - [Jordan — CS/Data/AI/Cyber cluster upgrade (competitors + local partners + playbook)](T-565-jordan-program-cluster-cs-data-playbook.md)
 - [Nigeria — Medicine/MD cluster v1 (competitors + playbook)](T-572-nigeria-medicine-cluster-v1.md)
-- [Greece — Stakeholder coverage audit + backlog plan](T-591-greece-stakeholder-coverage-audit.md)
 - [Greece — Data + reports index refresh (make inventories actionable)](T-592-greece-data-and-reports-index-refresh.md)
 
-## in-progress (2 tickets)
+## in-progress (3 tickets)
 - [Arsakeio General Lyceum of Patras profile](T-350-sch-gr-patras-arsakeio-001-profile.md)
 - [Ticket ID deduplication and renumbering](T-471-ticket-number-dedup.md)
+- [Greece — Stakeholder coverage audit + backlog plan](T-591-greece-stakeholder-coverage-audit.md)
 
 ## blocked
 - (none listed)
