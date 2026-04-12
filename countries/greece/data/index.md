@@ -6,11 +6,8 @@ This index lists all current Greece datasets and notes under `countries/greece/d
 
 | file | owner | last_updated | status | next_action |
 | --- | --- | --- | --- | --- |
-| [`entities/schools.csv`](./entities/schools.csv) | TBD | 2025-12-21 | populated | Confirm owner, add dictionary file for school-specific columns, and review coverage vs. priority feeder tiers. |
-| [`entities/agents.csv`](./entities/agents.csv) | TBD | 2025-12-20 | partial | Assign owner, expand beyond initial shortlist, and add an agents dictionary describing `services`, `primary_markets`, and status fields. |
-| [`entities/government-regulators.csv`](./entities/government-regulators.csv) | TBD | 2025-12-20 | populated | Confirm regulator list completeness, and add a companion dictionary clarifying `domain` and `level` values. |
-| [`entities/ngos-sgos.csv`](./entities/ngos-sgos.csv) | TBD | 2025-12-20 | partial | Validate priority NGO/SGO coverage for Greece, and add a dictionary for `scope`, `focus_area`, and `status`. |
-| [`field-standards.md`](./field-standards.md) | TBD | TBD | placeholder | Review and finalize shared field standards, then ensure each CSV references the relevant sections. |
-| [`programs/`](./programs/) | TBD | TBD | placeholder | Define initial Greece-specific program datasets (if needed) or confirm reliance on shared UNIC program inventory only. |
-| [`marketing/`](./marketing/) | TBD | TBD | placeholder | Decide on first marketing datasets (e.g., channel benchmarks, keyword sets) and ticketize creation. |
-| [`operations/`](./operations/) | TBD | TBD | placeholder | Identify initial operations tables (e.g., calendar, funnel KPIs) and create corresponding CSVs plus dictionaries. |
+| [`entities/schools.csv`](./entities/schools.csv) | TBD | 2026-04-07 | populated | Confirm owner, add a `schools-dictionary.md` for Greece-specific columns, and review coverage vs. priority feeder tiers and clusters. |
+| [`entities/agents.csv`](./entities/agents.csv) | TBD | 2026-04-07 | partial | Assign owner, expand beyond the initial shortlist, and add an `agents-dictionary.md` describing `services`, `cities_covered`, and relationship status fields. |
+| [`entities/government-regulators.csv`](./entities/government-regulators.csv) | TBD | 2026-04-07 | populated | Confirm regulator list completeness, and add a companion `government-regulators-dictionary.md` clarifying `domain`, `level`, and recognition pathways. |
+| [`entities/ngos-sgos.csv`](./entities/ngos-sgos.csv) | TBD | 2026-04-07 | partial | Validate priority NGO/SGO coverage for Greece, and add an `ngos-sgos-dictionary.md` for `scope`, `focus_area`, and `status`. |
+| [`field-standards.md`](./field-standards.md) | TBD | 2026-04-07 | placeholder | Finalize shared field standards (IDs, dates, currencies, booleans) and align each Greece dataset with the global data-model Skill. |
