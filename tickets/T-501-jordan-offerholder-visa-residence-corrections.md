@@ -1,12 +1,12 @@
 # T-501: Jordan — correct offerholder visa/residence assumptions (Cyprus + Greece)
 
-Status: on-deck
+Status: in-progress
 Type: content
 Priority: P0
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
-Last-updated: 2025-12-23
+Claimed-by: EXECUTION-e31ad48f-fb8a-4f9b-babb-1a6ebf635156
+Claimed-at: 2026-04-12
+Last-updated: 2026-04-12
 Agent: EvoTicket Resolver
 Research rounds: N/A
 Research sections: N/A
@@ -69,4 +69,3 @@ These documents must be treated as compliance-sensitive:
 - [ ] All visa/residence guidance is clearly separated by campus (Cyprus vs Greece) and by applicant type where relevant (Jordanian nationals vs EU nationals residing in Jordan).
 - [ ] No fake/placeholder domains remain (e.g., `example`, `example.com`, `*.example`).
 - [ ] The docs include primary-source links (embassy/consulate/government pages) and `last_verified` dates for the most important claims.
-
