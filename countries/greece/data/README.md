@@ -6,10 +6,10 @@ For a live catalog of Greece datasets and notes, see the [data index](./index.md
 
 ## Structure
 
-- `entities/` — canonical lists of ecosystem actors (schools, agents, regulators, NGOs/SGOs, fairs/events, competitors).
-- `programs/` — program inventory for UNIC/UNIC Athens and competitors, plus scholarships or discounts.
-- `marketing/` — performance and planning inputs for demand generation (keywords, channel benchmarks, creative inventory).
-- `operations/` — operating models and metrics (topic/calendar planning, funnel metrics, budget assumptions).
+- `entities/` — canonical lists of ecosystem actors (schools, agents, regulators, NGOs/SGOs, fairs/events, competitors). Currently populated with CSVs for `schools`, `agents`, `government-regulators`, and `ngos-sgos`; all other entity datasets should be added via future tickets.
+- `programs/` — program inventory for UNIC/UNIC Athens and competitors, plus scholarships or discounts. No Greece-local program CSVs exist yet; rely on shared UNIC program files until a ticket creates Greece-specific views.
+- `marketing/` — performance and planning inputs for demand generation (keywords, channel benchmarks, creative inventory). This folder is a placeholder; first datasets should focus on channel benchmarks and campaign calendars.
+- `operations/` — operating models and metrics (topic/calendar planning, funnel metrics, budget assumptions). This folder is a placeholder; use it for recurring operational dashboards once Greece datasets mature.
 
 ## Conventions
 
@@ -29,3 +29,4 @@ The UNIC program inventory is centralized at [`../../UNIC/data/programs/unic-pro
 - Assign named owners and confirm freshness for each dataset in the [data index](./index.md), especially `entities/schools.csv` and `entities/agents.csv`.
 - Create and link per-table dictionary files (starting with schools, agents, regulators, and NGOs/SGOs) so column meanings stay consistent with the global data-model Skill.
 - Decide on first marketing and operations datasets for Greece (e.g., channel benchmarks, campaign calendar) and open tickets to populate those tables using the shared field standards.
+- Plan and ticket additional entity datasets (competitors, events/fairs, exams and curricula) so Greece coverage matches other priority markets.

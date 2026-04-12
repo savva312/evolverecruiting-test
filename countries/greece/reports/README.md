@@ -13,8 +13,11 @@ Store Greece-only reports here (market scans, compliance memos, operational revi
 
 ## Backlog and upcoming reports
 
+The following reports are prioritized next for Greece. Each should follow the report format below and be created under this folder with a `YYYYMMDD-topic.md` filename.
+
 - Greece recognition and licensure memo — summarize DOATAP/SAEP recognition routes for UNIC Nicosia and UNIC Athens, parent-ready messaging, and open questions for legal/compliance.
 - Greece digital channel benchmark pack — compile Greece-specific digital channel performance benchmarks (Search/Meta/TikTok/YouTube) and recommended KPIs for UNIC/UNIC Athens campaigns.
+- Greece schools and counselor engagement review — synthesize visit history, counselor feedback, and next steps using `entities/schools.csv` plus school-outreach notes.
 
 ## Report format
 
