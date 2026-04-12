@@ -1,6 +1,6 @@
 # T-501: Jordan — correct offerholder visa/residence assumptions (Cyprus + Greece)
 
-Status: in-progress
+Status: done
 Type: content
 Priority: P0
 Dependencies: (none)
@@ -69,3 +69,9 @@ These documents must be treated as compliance-sensitive:
 - [ ] All visa/residence guidance is clearly separated by campus (Cyprus vs Greece) and by applicant type where relevant (Jordanian nationals vs EU nationals residing in Jordan).
 - [ ] No fake/placeholder domains remain (e.g., `example`, `example.com`, `*.example`).
 - [ ] The docs include primary-source links (embassy/consulate/government pages) and `last_verified` dates for the most important claims.
+
+---
+
+## What changed
+
+- Updated `countries/jordan/go-to-market/offerholder-and-yield/deposit-deadlines.md` and `countries/jordan/go-to-market/offerholder-and-yield/housing-and-arrival.md` with corrected Jordan visa/residence guidance for UNIC Cyprus and Athens offerholders and removed placeholder contact details.
