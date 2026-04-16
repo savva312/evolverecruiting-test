@@ -25,6 +25,7 @@ What usually matters most:
 ## 3) Positioning vs competitors
 
 - **EU‑based, English‑taught MD** – position UNIC as an EU medical degree with English‑medium teaching and structured clinical placements, compared with TRNC and some Caribbean options whose regulatory status feels less stable to families.
+- **TRNC affordability vs EU stability** – acknowledge that some Northern Cyprus (TRNC) universities advertise significantly lower net tuition because of large “automatic” scholarship packages, but emphasise that families should prioritise accreditation quality, clinical‑placement standards, and long‑term mobility over the lowest sticker price; use the TRNC entries in the competitors page as concrete examples.
 - **Admissions route** – holistic assessment (grades plus interview) rather than heavy entrance‑exam culture common in CEE publics; attractive for WAEC/A‑level students strong in coursework but anxious about high‑stakes tests.
 - **Affordability vs UK / high‑cost destinations** – use sourced data to show that, while medicine is always expensive, UNIC’s MD tuition and Nicosia/Athens living costs typically sit well below UK MBBS fees for international students and below many North American or Caribbean options.
 - **Student experience and support** – multicultural cohorts, structured academic support, and scholarship schemes (for example, need‑based discounts up to around 20% of tuition) that can soften the affordability story for Nigerian families.
@@ -55,7 +56,7 @@ When discussing recognition, NYSC, licensure, or practice rights:
   - **Professional licensure** (for example, approval by the **Medical and Dental Council of Nigeria (MDCN)** or other national councils).
 - Encourage families to check current rules directly with MDCN, the Federal Ministry of Education, and destination‑country regulators.
 
-Always route counsellors back to `countries/nigeria/market/recognition-and-licensure.md` for:
+Always route counsellors back to the [Nigeria recognition and licensure guide](../../market/recognition-and-licensure.md) for:
 
 - A Nigeria‑specific explanation of recognition versus licensure.
 - Links to Nigerian authorities and professional councils.
