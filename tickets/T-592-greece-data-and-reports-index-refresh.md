@@ -1,12 +1,12 @@
 # T-592: Greece — Data + reports index refresh (make inventories actionable)
 
-Status: on-deck
+Status: done
 Type: integration
 Priority: P0
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
-Last-updated: 2025-12-23
+Claimed-by: work
+Claimed-at: 2026-04-16T09:29:16Z
+Last-updated: 2026-04-16
 Agent: EvoTicket Resolver
 
 ---
@@ -60,3 +60,8 @@ Give Greece operators a single place to see which datasets and reports exist, wh
 - [ ] Report README lists all existing reports in the folder and provides next actions/backlog for at least two additional reports.
 - [ ] README updates link directly to the new index/table sections so future agents can navigate quickly.
 - [ ] No edits occur outside allowed write paths.
+
+## Execution notes
+
+- What changed (short): Verified that `countries/greece/data/index.md` already catalogs all current Greece datasets/dictionaries and that `countries/greece/data/README.md` and `countries/greece/reports/README.md` contain the required navigation, summaries, and backlog; left those files unchanged and updated this ticket to reflect completion.
+- Open questions: Dataset owners and explicit freshness verification still need to be confirmed in future Greece data tickets.
