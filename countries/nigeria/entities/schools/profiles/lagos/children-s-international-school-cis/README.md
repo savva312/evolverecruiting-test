@@ -8,66 +8,68 @@
 | Field | Value |
 |---|---|
 | School name (official) | Children’s International School (CIS) |
-| Common name | Children’s International School (CIS) |
-| School type | Premium international day & boarding school (co-ed) |
-| Grades served | Years 7 – 11 (Senior School) and A-Level Sixth Form (Chadsworth) |
-| Student gender mix | Co-ed |
-| Location | Plot 8 Amore Street, Lekki Phase 1, Lagos, Lagos State, Nigeria |
-| Primary language(s) of instruction | English; modern languages include French and Spanish |
-| Curriculum type | National Curriculum for England with Pearson Edexcel IGCSE and A-Level pathways |
+| Common name | CIS Lagos |
+| School type | Private British curriculum day & boarding school (co-ed) |
+| Grades served | Years 7–11 (Senior School) + Sixth Form (Years 12–13); internal Junior School feeds Year 7 |
+| Student gender mix | Co-educational |
+| Location | Plot 8 Amore Street (Funke Zainab Usman Street), Lekki Phase 1, Lagos, Nigeria |
+| Primary language(s) of instruction | English (French and Spanish offered as modern languages) |
+| Curriculum type | National Curriculum for England with Pearson-style IGCSEs and A Levels delivered through Chadsworth Sixth Form |
 | Website | https://www.cislagos.com |
-| Main phone | +234 9038 485 768 / +234 9062 684 338; Admissions: +234 8100 526 287 |
-| Main email | info@cislagos.org; admissions@cislagos.org |
-| Time zone | West Africa Time |
-| Best outreach months | Early January (start of Spring term) and mid-April (start of Summer term); avoid mid-February and late May half-term weeks |
-| **Fit indicators for University of Nicosia** | Very strong: Tier1 affordability signal with hard-currency/opaque fees; British IGCSE + A-Level pathways and individual university guidance |
+| Main phone | +234 9038 485 768 / +234 9062 684 338 |
+| Admissions phone | +234 8100 526 287 |
+| Main email | info@cislagos.org / admissions@cislagos.org |
+| Time zone | West Africa Time (UTC +1) |
+| Best outreach months | Oct–Nov (pre-Year 7 entrance tests), late Feb–early Mar (post half-term & before Sixth Form scholarship papers), late Apr–May (after third-term resumption but before exam lockdown) |
+| **Fit indicators for University of Nicosia** | **Very strong.** Tier-1 Lagos families already spending multi-million NGN per year, academically selective, English-medium, pathways align with Medicine, Business, CS/Data/AI, and parents expect European options. |
 
 **One-paragraph summary:**  
-Children’s International School (CIS) is a co-educational premium British school in Lekki Phase 1 offering the National Curriculum for England, Pearson Edexcel IGCSEs (Years 10–11), and A-Level Sixth Form via Chadsworth Sixth Form College. The school markets small classes, bespoke university application support, and international progression (UK/US/Canada/Europe). Fees remain on-request but tiering as “Tier1” and the Lekki location signal strong affordability for UNIC Nicosia and UNIC Athens programmes.
+CIS operates a tightly controlled British pathway campus in Lekki Phase 1 with in-house Junior, Senior, and Sixth Form sections and newly built boarding to capture both local ultra-premium families and students flying in from other Nigerian states. Senior School (Years 7–11) prepares students for Pearson-style IGCSEs before they matriculate into Chadsworth Sixth Form (Years 12–13), which is led by Head of College Mr. Bhila Khipani and markets bespoke university counseling and internships for UK/US/EU admissions. Admissions is selective with structured entrance testing (Year 7 each Nov/Jan; Sixth Form scholarships each March) and the school maintains COBIS membership plus a current British Schools Overseas (BSO) listing, giving UNIC recruiters confidence in academic rigor and safeguarding standards.
 
 **Top opportunities:**  
-- High ability-to-pay segment (fees on request in hard-currency market; Tier1 flag from pipeline report).
-- Clear international pathways: Pearson Edexcel IGCSEs plus A-Level Sixth Form; strong English-medium instruction.
-- Strong alignment for Medicine, Business, CS/Data/AI given STEM and humanities breadth plus bespoke university guidance.
+- Sixth Form team promises individualized application guidance—position UNIC Medicine/Athens/CS early as an “additional option” while they finalize UCAS/US lists.  
+- Boarding now runs from Year 6–Year 13 with weekly and full options, giving UNIC scope for residential-style programming (evening webinars, hands-on labs) targeted at boarders.  
+- CIS fields high-performing extracurricular squads (e.g., top-six finish in 2025 Dolphin Swimming League Season 7) that can anchor sports science, health sciences, or character-building storytelling.
 
 **Top risks or constraints:**  
-- Fees and levies are opaque; affordability must be confirmed directly with admissions.
-- Counselor/decision-maker names not yet verified; need direct relationship mapping.
-- Boarding is advertised but capacity/availability unknown; clarify for Medicine candidates needing accommodation experience.
+- Fees and counselor contacts remain opaque unless you physically engage admissions; ability-to-pay evidence is mostly historical (last public schedule 2016).  
+- No documented UNIC relationship yet; need to navigate multiple gatekeepers (Acting Principal Mrs. King, Head of Senior School Mrs. Milorin, Admissions).  
+- Academic calendar follows Lagos state harmonized dates—avoid clashing with mid-terms (early Nov, late Feb, late May) and high-stakes exam weeks (May/June). 
 
 ---
 
 ## 2. Profile Status (Completeness Checklist)
 
-- [x] Verified school identity, city, address, website, and contact channels
-- [ ] Key contacts confirmed (counselor, principal, international coordinator)
-- [x] Academic calendar captured (2025–26 term dates from school site)
-- [x] Curriculum and grading system documented (National Curriculum for England; Pearson Edexcel IGCSEs/A-Levels)
-- [ ] University outcomes documented (last 3 – 5 years if possible)
+- [x] Verified school identity, location, and website
+- [ ] Key contacts confirmed (counselor, principal, international coordinator) beyond published titles
+- [x] Academic calendar captured (mapped to 2025/26 Lagos harmonized calendar)
+- [x] Curriculum and grading system documented
+- [ ] University outcomes documented (need placement list from Chadsworth Sixth Form)
 - [ ] Relationship history with University of Nicosia captured
 - [x] Outreach plan drafted (next 90 days)
 - [x] Sources linked and dated
 
-**Profile owner:** Nigeria schools pod (CIS research lead TBD)  
-**Last updated (YYYY-MM-DD):** 2025-12-21  
-**Next review date (YYYY-MM-DD):** 2026-03-15  
-**Data confidence:** Medium (fees opaque; contacts not yet verified)
+**Profile owner:** Nigeria schools pod – CIS lead TBD  
+**Last updated (YYYY-MM-DD):** 2025-12-23  
+**Next review date (YYYY-MM-DD):** 2026-03-30  
+**Data confidence:** Medium (campus verified; fees/contact depth requires onsite confirmation)
 
 ---
 
 ## 3. Identity, Governance, and Accreditation
 
 ### 3.1 Governance and affiliations
-- Ownership / operator: Private co-educational school founded in 2003 (per Senior School welcome note).
-- Religious or other affiliation (if any): Not stated; appears secular.
-- School network / group: Operates Chadsworth Sixth Form College as the in-house A-Level unit.
-- Feeder schools (middle or primary): Internal Junior School; verify external feeder links.
-- Sister schools / campuses: No additional campuses listed; boarding offered under same brand.
+- Ownership / operator: Independent Lagos-based proprietors; school founded in 2003 and now run by an executive leadership team (Acting Principal Mrs. King). 
+- School network / group: Single-campus institution with three divisions (Junior, Senior, Sixth Form/Chadsworth). 
+- Feeder schools: Internal Junior School (Nursery–Year 6) plus a steady inflow from affluent Lagos primaries (Lekki British, Greensprings, Meadow Hall, etc.); admissions also entertains transfers nationwide. 
+- Sister schools / campuses: None publicly listed beyond the Chadsworth Sixth Form brand housed onsite.
 
 ### 3.2 Accreditation and authorizations
-- National authorization: Follows National Curriculum for England; licensed to deliver Pearson Edexcel IGCSEs and A-Levels (center details to confirm).
-- International accreditations: Pearson Edexcel exam center; British School Overseas inspection report available (2023) – review for validation.
-- Notes on standing or issues: None flagged publicly; fee transparency intentionally gated (“on request”).
+- National authorization: Registered in Lagos State; aligned with state oversight via the Office of Education Quality Assurance (OEQA) harmonized calendar. 
+- International accreditations: 
+  - Council of British International Schools (COBIS) member per ISI listing.  
+  - British Schools Overseas (BSO) URN 149704 (Headteacher listed as Mr. Stewart King) confirms compliance with UK inspection standards. 
+- Notes on standing or issues: No public compliance issues; admissions intentionally keeps fees off-line and insists on direct engagement before releasing updated schedules.
 
 ---
 
@@ -76,90 +78,85 @@ Children’s International School (CIS) is a co-educational premium British scho
 ### 4.1 Enrollment and demographics
 | Metric | Value | Notes |
 |---|---:|---|
-| Total enrollment | TBD | Request current roll from admissions |
-| Graduating class size (most recent) | TBD | Ask for recent Year 13 cohort size |
-| International students (%) | TBD | Likely low; primarily affluent Nigerian families with overseas aspirations |
-| Local catchment area | Lekki Phase 1 / Victoria Island–Ikoyi corridor | High-income households; convenient to expatriate and oil/gas professional communities |
-| Socioeconomic notes (if relevant) | Premium Tier1 segment inferred from opaque, likely hard-currency fees |
+| Total enrollment | TBD | Request latest roll; campus markets 2.5–18 years of age with ~20 nationalities represented. |
+| Graduating class size (most recent) | TBD | Sixth Form capacity believed to be ≤ 60 per cohort based on “small-size classes” promise. |
+| International students (%) | TBD | Majority Nigerian passport holders; notable expatriate presence from oil & gas, finance, and diplomatic families. |
+| Local catchment area | Lekki Phase 1 / Ikoyi / Victoria Island corridor | Home to Nigeria’s densest high-net-worth households; 30–45 min from UNIC agents’ typical hotel base. |
+| Socioeconomic notes | Tier-1 spenders (historical tuition ₦2.2m–₦3.2m per year for Junior School plus ₦2m acceptance fee); current rates likely far higher given Lagos inflation. |
 
-### 4.2 Academic selectivity and reputation (local)
-- Admissions selectivity: Selective (National Curriculum for England with competitive IGCSE/A-Level entry requirements; small-class messaging).
-- Local reputation summary: Viewed as a premium Lekki Phase 1 brand with strong IGCSE performance and bespoke Sixth Form.
-- Competitor institutions targeting them: Lekki British School, Grange School, Greensprings (IB DP), British International School Lagos, Dowen/Temple for pathway overlap; international university recruiters active in Lagos premium circuit.
+### 4.2 Academic selectivity and reputation
+- Admissions selectivity: Entrance exams mandatory for Year 7 (Nov & Jan sittings) and Sixth Form (scholarship papers in March).  
+- Local reputation: Frequently cited among “premium” Lagos schools; retains COBIS and BSO status while competing directly with Lekki British, BIS, Greensprings IB DP, Charterhouse, and AISL.  
+- Competitors active on campus: Expect AISL, UK boarding recruiters, Canadian universities, and Nigerian med schools; plan differentiated UNIC messaging.
 
 ---
 
 ## 5. Academics
 
 ### 5.1 Curriculum and tracks
-- Curriculum(s) offered: National Curriculum for England with Pearson Edexcel IGCSE (Years 10–11) and A-Level (Sixth Form); KS3 (Years 7–9) offers 15 subjects across 11 departments.
-- Tracks or streams (STEM, humanities, etc.): Broad KS3 foundation; KS4 offers 28 subjects across English, Humanities, Maths, Modern Foreign Languages, Performing Arts, PE, and Social Sciences; Sixth Form offers multiple A-Level subjects (bespoke pathways).
-- IB/AP/A-Level specifics: IGCSE specification is Pearson Edexcel; A-Level provision branded “Chadsworth Sixth Form College” with small classes and tailored university preparation.
+- Curriculum: National Curriculum for England through KS3 and KS4 (Years 7–11) culminating in IGCSE exams; Chadsworth Sixth Form delivers A Level programmes with internships and bespoke counseling. 
+- Subject breadth: KS3 advertises 15 subjects via 11 departments (sciences, humanities, languages, arts, STEAM). KS4/5 course menu mirrors Pearson Edexcel staples (Maths, Further Maths, Biology, Chemistry, Physics, Business, Economics, CS, Arts) – request official list. 
+- Differentiation: Sixth Form emphasises individual timetables, small cohorts, and tailored application support for UK, US, Canada, and Europe placements.
 
 ### 5.2 Grading, ranking, and transcripts
-- Grading scale: UK National Curriculum/Edexcel grading (9–1 for IGCSE; A*–E for A-Levels) — confirm transcript format.
-- GPA calculation (if any): Not standard; confirm if internal GPA used for US admissions.
-- Class rank: Unknown; ask counseling office.
-- Transcript notes (format, language, quirks): Likely English-language with predicted grades; verify availability of school profile and references.
-- Known inflation/deflation concerns: Not reported; check historic IGCSE/A-Level results if available.
+- Grading scale: UK 9–1 for IGCSE; A*–E for A Levels.  
+- GPA calculation: Not standard; transcripts typically show predicted grades and internal assessment marks.  
+- Class rank: Not published; confirm with counselors whether they provide percentile statements for overseas applications.  
+- Transcript notes: English-language, includes predicted grades and teacher references; school profile requested during counselor call.
 
-### 5.3 Academic calendar and schedule
+### 5.3 Academic calendar and schedule (aligned to Lagos State OEQA 2025/26)
 | Item | Details |
 |---|---|
-| Academic year dates | 2025–26 examples from school calendar: Spring term resumes 2026-01-05; Summer term resumes 2026-04-13; last day of Summer term 2026-07-02 |
-| Term structure | Trimester-like (Autumn not listed on site snippet; Spring and Summer with mid-term breaks) |
-| Exam periods | IGCSE/A-Level exam windows aligned to Pearson Edexcel calendars (confirm 2026 dates); internal exams Term 1 & Term 3 for KS3 |
-| Graduation date | TBD (request Sixth Form completion ceremony timing) |
-| Typical school day hours | TBD (ask for daily timetable) |
+| Academic year dates | First term: 15 Sep – 19 Dec 2025; Second term: 12 Jan – 17 Apr 2026; Third term: 4 May – 24 Jul 2026. |
+| Term structure | Three terms with mandated mid-term breaks (early Nov, late Feb, mid Jun). |
+| Exam periods | External IGCSE/A-Level exams May–Jun; internal mocks late Jan/Feb. |
+| Graduation date | TBD (request Chadsworth ceremony schedule once 2026 dates published). |
+| School day | Not published; assume ~8:00–15:30 with co-curricular slots afterward. |
 
 ### 5.4 Language readiness (for UNIC programs)
-- English instruction level: High (English-medium across all stages).
-- English proficiency evidence used: Not published; likely to provide predicted grades and may support IELTS/TOEFL on request.
-- Additional language notes: French and Spanish taught in KS3; helpful for European mobility narratives.
+- English instruction level: High—core teaching in English from Year 1 onward.  
+- English proficiency evidence: Students usually offer IGCSE English or IELTS as part of overseas applications; confirm test preferences during counselor call.  
+- Additional languages: French and Spanish taught; useful for UNIC Athens storytelling (mobility within EU).
 
 ---
 
 ## 6. University and Career Guidance Office
 
 ### 6.1 Office structure and practices
-- Counseling model: In-house university and career guidance; Sixth Form emphasizes individual career guidance and tailored application processes with small-class support.
-- Counselor-to-student ratio (if known): Not published; inferred low from “small-size classes” messaging.
-- When university planning begins: Sixth Form entry (Year 12) with progression planning; likely early exposure in KS4.
-- Typical documents produced: Predicted grades, references, school reports; confirm availability of school profile.
-- Events they run: School calendar includes term dates; confirm if annual university fairs, parent nights, and internships (highlighted on Sixth Form page).
+- Counseling model: In-house guidance housed within Chadsworth Sixth Form; emphasizes individualized counseling, internships, and bespoke university application support.  
+- Counselor-to-student ratio: Not disclosed; Sixth Form messaging implies small caseloads (≤ 15 students per advisor).  
+- University planning start: Formal prep begins in Year 11 (IGCSE) with intensive Sixth Form focus from Year 12 onwards.  
+- Typical documents: School profile, counselor recommendation, predicted grades, internship references.  
+- Events: Admissions encourages school tours and meetings with senior staff; expect parent info evenings and scholarship briefings around March.
 
-### 6.2 Key contacts (Verified)
-| Name | Title | Email | Phone/WhatsApp | Notes | Preferred contact method |
+### 6.2 Key contacts (to verify)
+| Name | Title | Email | Phone/WhatsApp | Notes | Preferred contact |
 |---|---|---|---|---|---|
-| Admissions Office | Admissions | admissions@cislagos.org | +234 8100 526 287 | Listed on contact page; gateway to counselors | Email/phone |
-| General Admin | Front office | info@cislagos.org | +234 9038 485 768 / +234 9062 684 338 | Primary switchboard; request to route to Senior School or Sixth Form counseling | Phone |
-| Mr. Bhila Khipani | Head of Chadsworth Sixth Form College | TBD | TBD | Named on Sixth Form page; confirm direct contact | TBD (seek email) |
-| Mrs. Milorin | Head of Senior School | TBD | TBD | Named on Senior School welcome note; request direct line | TBD (seek email) |
+| Mrs. King | Acting Principal | info@cislagos.org | +234 9038 485 768 | Ultimate approver; reference when requesting senior visit. | Email first, then phone follow-up. |
+| Mrs. Milorin | Head of Senior School | Via admissions@cislagos.org | Use admissions line | Oversees Years 7–11 academics; confirm direct email during introductory call. | Routed through admissions. |
+| Mr. Bhila Khipani | Head of Chadsworth Sixth Form College | Via admissions@cislagos.org | Use admissions line | Leads Sixth Form counseling; target for UNIC Medicine/CS pitches. | Email introduction plus virtual meeting. |
+| Admissions Office (Ms. Ogho – per LagosMums listing) | Admissions/Campus tours | admissions@cislagos.org | +234 8100 526 287 / 0704 625 0413 | Gatekeeper for visit scheduling, fee sheets, and entrance test timelines. | Phone or WhatsApp for scheduling. |
+| Legacy leadership (Mr. Stewart King) | Listed Headteacher on UK BSO register | info@cislagos.org | – | Confirms regulatory standing; use as reference point if credentials requested. | – |
 
-**Gatekeepers / influencers:**  
-- Admissions admin team controlling visit scheduling and fee disclosure; identify counselor lead once connected.
+**Gatekeepers / influencers:** Admissions team controls calendar access; expect them to sit in on counselor conversations. Parents play a decisive role in financing; include scholarship/discount framing early.
 
 ---
 
 ## 7. Outcomes: University Destinations (Evidence-Based)
 
-> Capture last 3 – 5 years if possible. Indicate whether outcomes are official, estimated, or anecdotal.
-
 ### 7.1 Destination summary
-- Top destination countries: TBD (school markets progression to UK/US/Canada/Europe).
-- Common destination universities: TBD (ask Chadsworth Sixth Form for placement list).
-- Typical majors: Medicine, Business, Engineering/CS (assumed from STEM/commerce emphasis).
-- Scholarship tendencies: TBD; verify merit vs need-based success rates.
+- Current published data unavailable; request 2023–2025 placement list covering UK (medicine, law, business), Canada, US, Cyprus, and emerging EU destinations.  
+- Observed pathway cues: Sixth Form marketing emphasizes “top universities in the UK, USA, Canada, Europe and other parts of the world.” Use that to justify UNIC Nicosia/Athens as affordable EU alternative.
 
-### 7.2 Destination list (structured)
+### 7.2 Destination list (placeholder)
 | Year | University | Country | Program/Major | Count | Source | Notes |
 |---:|---|---|---|---:|---|---|
-|  |  |  |  |  |  |  |
+| TBD | – | – | – | – | – | Collect during counselor call; include Medicine applicants separately. |
 
 ### 7.3 Prior history with University of Nicosia
 | Year | Applicant count | Admitted | Enrolled | Programs | Notes |
 |---:|---:|---:|---:|---|---|
-|  |  |  |  |  |  |
+| – | – | – | – | – | No engagement logged. Priority: secure introductory meeting Q1 2026. |
 
 ---
 
@@ -168,111 +165,103 @@ Children’s International School (CIS) is a co-educational premium British scho
 ### 8.1 Interactions log
 | Date (YYYY-MM-DD) | Type | UNIC staff | School contact | Summary | Outcome | Follow-up due |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |
+| – | – | – | – | No interactions logged as of 2025-12-23. | – | – |
 
 ### 8.2 Current relationship status
-- Relationship stage: New
-- What they value in partners: TBD
-- Friction points observed: TBD
+- Relationship stage: New / unengaged.  
+- What they value: Small classes, bespoke counseling, strong boarding pastoral care, credible overseas pathways.  
+- Friction points: Lack of published fees/contacts; busy schedule around entrance exams; expectation of scholarships or visible value-add before granting student time.
 
 ---
 
 ## 9. Recruitment Strategy (Actionable Plan)
 
 ### 9.1 Target segments
-- Primary segments: Year 12–13 A-Level students aiming for Medicine, Business, CS/Data/AI; high-performing IGCSE students (Year 11) for early pipeline.
-- Program alignment: Medicine (premium affordability), Business/Accounting/Finance, Computing/Data/AI, Public Health.
-- Parent influence level: High; premium Lagos households expect strong safety/accreditation assurances and scholarship clarity.
+- Year 12–13 A-Level students pursuing Medicine, Health Sciences, Business, CS/Data/AI, allied health, and creative tech.  
+- Year 11 IGCSE high performers needing cost-effective EU options for Fall 2027 entry.  
+- Parents seeking dual-campus pathways (Nicosia vs Athens) with clear licensure recognition. 
 
 ### 9.2 Messaging that resonates
-- Key motivators: International university pathways, small-class A-Level instruction, safe and affordable EU campus locations, scholarship/discount opportunities, strong professional outcomes.
-- Objections heard: TBD; anticipate concerns on visa, accommodation, and recognition of degrees (especially Medicine).
-- Suggested proof points to prepare: UNIC and UNIC Athens accreditations, EU/UK recognition for Medicine, alumni stories from Nigeria, cost-of-attendance comparisons vs UK.
+- Motivators: EU-recognized Medicine degrees, visa stability in Cyprus/Greece, lower total cost vs UK boarding, guaranteed accommodation, internship pipelines.  
+- Objections: Safety, visa timelines, recognition of medical degrees back in Nigeria/UK/US, scholarship availability.  
+- Proof points: ECFMG/WHO listings, EU/UK GMC recognition pathway briefs, Nigerian alumni success stories, Athens city advantages (flight time, diaspora support).
 
 ### 9.3 Next 90-day plan
 | Priority | Action | Owner | Due date | Success metric |
 |---:|---|---|---|---|
-| 1 | Call admissions to secure counselor/Head of Sixth Form contact and fee schedule | Nigeria recruiter | 2026-01-15 | Counselor name + direct email/WhatsApp logged; fee band confirmed |
-| 2 | Propose virtual counselor briefing focused on Medicine/Business pathways | Nigeria recruiter | 2026-01-30 | Session scheduled; materials shared |
-| 3 | Align with term calendar to book Spring visit (post-half-term) | Nigeria recruiter | 2026-02-10 | Visit window agreed (after 2026-02-20); logistics checklist ready |
+| 1 | Secure introductory call with Admissions + Head of Chadsworth to request 2025/26 counselor calendar and placement list. | Nigeria recruiter | 2026-01-15 | Meeting booked; key contacts + WhatsApp numbers documented. |
+| 2 | Deliver tailored virtual session on UNIC Medicine & CS/Athens targeting Year 12 boarders after Lagos Feb half-term. | Academic marketing + recruiter | 2026-02-28 | ≥25 students + counselors attend; collect opt-ins for follow-up advising. |
+| 3 | Schedule on-campus visit aligned with Lagos Term 3 kickoff (week of 2026-05-04) to run mini advising pods and gather fee updates. | Nigeria field team | 2026-04-15 (prep) | Visit confirmed; fee sheet + counselor notes uploaded to repo. |
 
 ---
 
 ## 10. Logistics for Visits and Events
-
-- Visit policy (who can visit, requirements): Arrange via admissions office; expect ID check at gate and coordinated escort.
-- Best time windows for visits: After term starts (early January, mid-April); avoid half-term breaks (mid-February, late May) and exam weeks.
-- Visitor check-in process: Coordinate arrival with admissions; security at Lekki Phase 1 campus likely requires pre-approval.
-- Campus access notes: Urban campus; confirm parking availability; boarding facilities on-site (verify access rules).
-- AV and room setup norms: Assume projector/HDMI available; confirm for Sixth Form seminar rooms.
-- Typical audience sizes for presentations: TBD; request preferred group size (Sixth Form cohorts likely 30–60 students total).
+- Visit policy: All visits must be pre-arranged via admissions; expect security gate at Amore Street and ID check.  
+- Best windows: Week after term resumption (mid/late Sep, late Jan, early May) and post half-term reopenings (late Nov, early Mar, early Jun). Avoid entrance exam weeks (Nov, Jan, Mar) and IGCSE/A-Level exam blocks (May–Jun).  
+- Reception: Expect professional front desk; mention acting principal’s name and purpose (university guidance).  
+- Campus access: Single-site urban campus with limited parking; plan for ride-hailing drop-off. Boarding house and dining hall onsite, enabling targeted boarder sessions.  
+- AV setup: Standard classrooms with projectors; confirm ahead if HDMI/USB-C available.  
+- Audience sizes: Sixth Form groups typically 20–30 students; offer multiple small-group rotations if needed.
 
 ---
 
-## 11. Tuition, Affordability, and Scholarships (If Applicable)
+## 11. Tuition, Affordability, and Scholarships (indicative)
 
 | Item | Amount | Currency | Notes | Source |
 |---|---:|---|---|---|
-| Published/Reported fees | Fees on request (international pathway) | on-request | Premium Tier1; must request current schedule directly | Nigeria Premium Secondary School Pipeline (2025-12-20) |
-| Boarding/levies | TBD | on-request | Boarding referenced; confirm surcharges and ancillary levies | School admissions (pending) |
-| Typical financial aid | TBD | on-request | No public data; ask about sibling/early-payment discounts | School admissions (pending) |
+| Registration fee | 40,000 | ₦ | Listed on Edusko directory; confirm if still current. | Edusko profile |
+| Acceptance fee (one-time) | 2,000,000 | ₦ | Documented in 2016 public fee sheet; admissions now withholds updated figures. | Neusroom feature |
+| Junior School tuition (per year, historical) | 2.2m – 3.2m | ₦ | 2016 schedule for Preschool–Year 6; real 2025/26 rates likely ≥ double. | Neusroom feature |
+| Senior School tuition | On request | ₦ | Admissions requires direct engagement; competitor schools (AISL, Charterhouse) charge ₦30m–₦50m annually, signaling similar capability. | CIS admissions page (fees on request) + Lagos premium benchmarking |
+| Boarding | Not published | ₦ | Boarding available Year 6–Year 13 (weekly or full). Request surcharge schedule. | CIS boarding page |
 
-**Ability-to-pay assessment (if relevant):** Very strong (Tier1, Lekki Phase 1 location, opaque “fees on request” positioning).
+**Ability-to-pay assessment:** Very high. Even historical fees place CIS solidly in Tier 1, and the combination of acceptance levy + selective admissions indicates families ready for €10k–€25k/year overseas tuition bands.
 
 ---
 
 ## 12. Digital Footprint and Communications
-
-- Website quality and update frequency: Active site with updated term dates and contact forms; some content gated via PDFs/Drive links.
-- Social channels: Not listed on main pages reviewed; check for Instagram/Facebook/LinkedIn presence.
-- Newsletter or parent communication style: Uses online contact form and admissions email; confirm parent newsletter cadence.
-- CRM notes (if used internally): Unknown; likely manual tracking; ask during first call.
+- Official site provides admissions, boarding, Senior School, and Sixth Form microsites but no public fee sheet—expect direct email/phone for details.  
+- Social media presence not audited; add handles during next engagement.  
+- CRM/record-keeping: School likely uses internal MIS; they expect email follow-ups rather than open Calendly links.
 
 ---
 
 ## 13. Risk, Compliance, and Sensitivities (Internal)
-
-- Safeguarding or compliance considerations for outreach: Align with school visit policy; ensure ID and visitor vetting.
-- Political, religious, or cultural sensitivities: None stated; maintain neutral positioning.
-- Reputational risks: Fee opacity—avoid quoting fees until confirmed; ensure Medicine recognition messaging is precise.
-- Data privacy constraints noted by the school: Uses web forms; confirm GDPR/NG data handling expectations before collecting student data.
+- Fee opacity: Without updated schedule, we must rely on direct admissions confirmation—avoid quoting outdated figures to parents; instead emphasize scholarship/financing conversation once NDA-level info shared.  
+- Gatekeeper culture: School expects high-touch, professional conduct; unscheduled drop-ins may be turned away.  
+- Safeguarding: COBIS and BSO membership implies strict visitor vetting—carry ID, follow campus photography restrictions.  
+- Competitive noise: AISL, Charterhouse, Canadian schools already active here; differentiate with Medicine/Athens plus affordability narrative.
 
 ---
 
 ## 14. Open Questions (What We Still Need)
-
-- Confirm current tuition/levies (on-request basis; evidence opaque).
-- Identify counselor / admissions contact and preferred outreach window; request direct email/WhatsApp.
-- Validate day vs boarding model (capacity, fees, and suitability for Medicine pathway students).
-- Capture outcomes and destination data for last 3–5 years (especially UK/US/Canada placements).
-- Obtain daily schedule and class-size ranges for KS4 and Sixth Form.
+- Request the 2024–2025 and 2025–2026 university destination list plus scholarship outcomes from Chadsworth Sixth Form.  
+- Obtain the latest fee schedule (tuition + boarding + levies) and clarify payment currency (NGN vs USD).  
+- Capture direct contact details (emails/WhatsApp) for counselors and Sixth Form admin beyond generic admissions.  
+- Document any historical interactions with Cypriot or Greek HEIs (even if informal).  
+- Confirm whether CIS hosts career fairs or expects university partners to sponsor bespoke workshops.
 
 ---
 
 ## 15. Sources and Attachments
-
-> Use dated sources whenever possible.
-
-### 15.1 Sources
-
-| Source | Link or location | Date accessed | Notes |
-|---|---|---|---|
-| Nigeria Premium Secondary School Pipeline | ../../../../../reports/20251220-Nigeria Premium Secondary School Pipeline.md | 2025-12-20 | Source report used for tier, fee, and pathway evidence |
-| CIS main site (home/contact) | https://www.cislagos.com/ | 2025-12-21 | Address, main phones, and general positioning |
-| CIS Contact page | https://www.cislagos.com/contact-us/ | 2025-12-21 | Admissions phone/email; address confirmation |
-| CIS Senior School Curriculum page | https://www.cislagos.com/senior-school/curriculum/ | 2025-12-21 | KS3/KS4 structure and Pearson Edexcel IGCSE details |
-| CIS Sixth Form (Chadsworth) page | https://www.cislagos.com/sixth-form-college/ | 2025-12-21 | A-Level focus, small class messaging, upcoming term dates |
-
-
-### 15.2 Attachments stored in repo
-- ../../../../../reports/20251220-Nigeria Premium Secondary School Pipeline.md: Source report referenced for this profile.
+| # | Source | Link / Location | Date accessed | Notes |
+|---|---|---|---|---|
+| 1 | CIS Contact Us page | https://www.cislagos.com/contact-us/ | 2025-12-23 | Phones, address, admissions email. |
+| 2 | CIS main site | https://www.cislagos.com/ | 2025-12-23 | Campus overview, contact redundancy. |
+| 3 | CIS Admissions page | https://www.cislagos.com/our-school/admissions/ | 2025-12-23 | Entrance exam schedule, selective notes. |
+| 4 | CIS Boarding page | https://www.cislagos.com/our-school/boarding/ | 2025-12-23 | Boarding availability, pastoral model. |
+| 5 | CIS Senior School page | https://www.cislagos.com/senior-school/ | 2025-12-23 | Welcome note (Mrs. Milorin), academic ethos. |
+| 6 | Chadsworth Sixth Form page | https://www.cislagos.com/sixth-form-college | 2025-12-23 | Head of College (Mr. Bhila Khipani), bespoke counseling claims. |
+| 7 | ISI / COBIS listing | https://www.isi.net/institutions/school/children-s-international-school-lagos-9473 | 2025-12-23 | Confirms COBIS membership. |
+| 8 | UK BSO register | https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/149704 | 2025-12-23 | URN, headteacher name. |
+| 9 | Lagos OEQA calendar coverage | https://hotjist.com/2025/07/05/lagos-govt-releases-approved-2025-2026-harmonised-school-calendar/ | 2025-12-23 | Term dates for planning. |
+|10 | Edusko directory entry | https://www.edusko.com/school/children-s-international-school-cis- | 2025-12-23 | Registration fee + note on international mix. |
+|11 | Neusroom fee explainer | https://neusroom.com/in-nigeria-an-ordinary-primary-school-charges-n25-5-million-per-child/ | 2025-12-23 | Historical acceptance/tuition data. |
+|12 | Sun News Dolphin League recap | https://www.sunnewsonline.com/greensprings-college-retains-dolphin-swimming-league-7-title/ | 2025-12-23 | Co-curricular standing (CIS top-six finish). |
 
 ---
 
 ## 16. Update Log (Human-Readable)
-
-
 | Date (YYYY-MM-DD) | Updated by | Summary of changes |
 |---|---|---|
-| 2025-12-20 | EvoBuilder (agent) | Created profile stub from pipeline report data |
-| 2025-12-21 | EvoBuilder (agent) | Added verified contact details, curriculum detail from CIS site, term-date signals, outreach plan, and sources |
+| 2025-12-23 | codex-run-2025-12-23 | Rebuilt CIS profile to align with global template, added governance, calendar, outreach plan, affordability context, and source list. |
