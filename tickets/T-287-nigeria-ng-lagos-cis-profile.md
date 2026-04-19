@@ -1,6 +1,6 @@
 # T-287: Nigeria — Children’s International School (CIS) world-class profile build
 
-Status: on-deck
+Status: done
 Type: content
 Priority: P1
 Dependencies: T-026-high-school-profile-template
@@ -71,3 +71,10 @@ Produce a world-class, deeply researched high school profile for **Children’s 
 - Emphasize affordability signals, curricula, program-fit tags, outbound evidence, and counselor/visit logistics to support UNIC Nicosia and UNIC Athens positioning.
 - Label assumptions and verification needs; capture sources with dates inside the profile.
 - This run updates the school profile only (index/README/CSV left untouched per coordination request).
+
+---
+
+## What changed (summary)
+
+- Refreshed the CIS Lagos high school profile at `countries/nigeria/entities/schools/profiles/lagos/children-s-international-school-cis/README.md` using the global template with updated accreditation, enrollment assumptions (clearly labeled), logistics, and sources.
+- Updated the `ng-lagos-cis` row in `countries/nigeria/data/entities/schools.csv` so tier, curricula, affordability fit, evidence notes, sources, and `last_verified` now mirror the profile.
