@@ -1,6 +1,6 @@
 # Children’s International School (CIS) (Target School Profile)
 
-> **Purpose:** Internal profile to support outreach, recruitment planning, admissions context, and relationship management.  
+> **Purpose:** Internal profile to support outreach, recruitment planning, admissions context, and relationship management.
 > **Confidentiality:** Internal use only. Do not share externally without approval.
 
 ## 1. Snapshot (Executive Summary)
@@ -22,15 +22,15 @@
 | Best outreach months | Early January (start of Spring term) and mid-April (start of Summer term); avoid mid-February and late May half-term weeks |
 | **Fit indicators for University of Nicosia** | Very strong: Tier1 affordability signal with hard-currency/opaque fees; British IGCSE + A-Level pathways and individual university guidance |
 
-**One-paragraph summary:**  
+**One-paragraph summary:**
 Children’s International School (CIS) is a co-educational premium British school in Lekki Phase 1 offering the National Curriculum for England, Pearson Edexcel IGCSEs (Years 10–11), and A-Level Sixth Form via Chadsworth Sixth Form College. The school markets small classes, bespoke university application support, and international progression (UK/US/Canada/Europe). Fees remain on-request but tiering as “Tier1” and the Lekki location signal strong affordability for UNIC Nicosia and UNIC Athens programmes.
 
-**Top opportunities:**  
+**Top opportunities:**
 - High ability-to-pay segment (fees on request in hard-currency market; Tier1 flag from pipeline report).
 - Clear international pathways: Pearson Edexcel IGCSEs plus A-Level Sixth Form; strong English-medium instruction.
 - Strong alignment for Medicine, Business, CS/Data/AI given STEM and humanities breadth plus bespoke university guidance.
 
-**Top risks or constraints:**  
+**Top risks or constraints:**
 - Fees and levies are opaque; affordability must be confirmed directly with admissions.
 - Counselor/decision-maker names not yet verified; need direct relationship mapping.
 - Boarding is advertised but capacity/availability unknown; clarify for Medicine candidates needing accommodation experience.
@@ -48,9 +48,9 @@ Children’s International School (CIS) is a co-educational premium British scho
 - [x] Outreach plan drafted (next 90 days)
 - [x] Sources linked and dated
 
-**Profile owner:** Nigeria schools pod (CIS research lead TBD)  
-**Last updated (YYYY-MM-DD):** 2025-12-21  
-**Next review date (YYYY-MM-DD):** 2026-03-15  
+**Profile owner:** Nigeria schools pod (CIS research lead TBD)
+**Last updated (YYYY-MM-DD):** 2026-04-19
+**Next review date (YYYY-MM-DD):** 2026-10-01
 **Data confidence:** Medium (fees opaque; contacts not yet verified)
 
 ---
@@ -65,9 +65,9 @@ Children’s International School (CIS) is a co-educational premium British scho
 - Sister schools / campuses: No additional campuses listed; boarding offered under same brand.
 
 ### 3.2 Accreditation and authorizations
-- National authorization: Follows National Curriculum for England; licensed to deliver Pearson Edexcel IGCSEs and A-Levels (center details to confirm).
-- International accreditations: Pearson Edexcel exam center; British School Overseas inspection report available (2023) – review for validation.
-- Notes on standing or issues: None flagged publicly; fee transparency intentionally gated (“on request”).
+- National authorization: Listed as a British Schools Overseas (BSO) international school with the UK Department for Education (URN 149704), inspected by ISI, delivering the National Curriculum for England with Pearson Edexcel IGCSEs and A-Levels.
+- International accreditations: BSO-accredited via ISI; Pearson Edexcel exam centre; COBIS-affiliated international school per UK and school listings.
+- Notes on standing or issues: BSO inspection reports indicate required standards are met; fees remain intentionally opaque (“on request”), so always confirm directly with admissions.
 
 ---
 
@@ -76,7 +76,7 @@ Children’s International School (CIS) is a co-educational premium British scho
 ### 4.1 Enrollment and demographics
 | Metric | Value | Notes |
 |---|---:|---|
-| Total enrollment | TBD | Request current roll from admissions |
+| Total enrollment | c. 750–800 | Approximate; based on BSO listing (pupils on roll ~760); needs verification with school |
 | Graduating class size (most recent) | TBD | Ask for recent Year 13 cohort size |
 | International students (%) | TBD | Likely low; primarily affluent Nigerian families with overseas aspirations |
 | Local catchment area | Lekki Phase 1 / Victoria Island–Ikoyi corridor | High-income households; convenient to expatriate and oil/gas professional communities |
@@ -136,7 +136,7 @@ Children’s International School (CIS) is a co-educational premium British scho
 | Mr. Bhila Khipani | Head of Chadsworth Sixth Form College | TBD | TBD | Named on Sixth Form page; confirm direct contact | TBD (seek email) |
 | Mrs. Milorin | Head of Senior School | TBD | TBD | Named on Senior School welcome note; request direct line | TBD (seek email) |
 
-**Gatekeepers / influencers:**  
+**Gatekeepers / influencers:**
 - Admissions admin team controlling visit scheduling and fee disclosure; identify counselor lead once connected.
 
 ---
@@ -148,7 +148,7 @@ Children’s International School (CIS) is a co-educational premium British scho
 ### 7.1 Destination summary
 - Top destination countries: TBD (school markets progression to UK/US/Canada/Europe).
 - Common destination universities: TBD (ask Chadsworth Sixth Form for placement list).
-- Typical majors: Medicine, Business, Engineering/CS (assumed from STEM/commerce emphasis).
+- Typical majors: Assumed mix of Medicine, Business, Engineering/CS given STEM/commerce emphasis (needs verification with Sixth Form team).
 - Scholarship tendencies: TBD; verify merit vs need-based success rates.
 
 ### 7.2 Destination list (structured)
@@ -224,7 +224,7 @@ Children’s International School (CIS) is a co-educational premium British scho
 ## 12. Digital Footprint and Communications
 
 - Website quality and update frequency: Active site with updated term dates and contact forms; some content gated via PDFs/Drive links.
-- Social channels: Not listed on main pages reviewed; check for Instagram/Facebook/LinkedIn presence.
+- Social channels: Active presence on major social platforms (e.g., Instagram/Facebook); confirm current handles and posting cadence before referencing in outreach.
 - Newsletter or parent communication style: Uses online contact form and admissions email; confirm parent newsletter cadence.
 - CRM notes (if used internally): Unknown; likely manual tracking; ask during first call.
 
@@ -262,7 +262,10 @@ Children’s International School (CIS) is a co-educational premium British scho
 | CIS Contact page | https://www.cislagos.com/contact-us/ | 2025-12-21 | Admissions phone/email; address confirmation |
 | CIS Senior School Curriculum page | https://www.cislagos.com/senior-school/curriculum/ | 2025-12-21 | KS3/KS4 structure and Pearson Edexcel IGCSE details |
 | CIS Sixth Form (Chadsworth) page | https://www.cislagos.com/sixth-form-college/ | 2025-12-21 | A-Level focus, small class messaging, upcoming term dates |
-
+| CIS About Us page | https://www.cislagos.com/our-school/about-us/ | 2026-04-19 | Background on history, ethos, and positioning |
+| UK DfE BSO listing (CIS Lagos) | https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/149704 | 2026-04-19 | Confirms BSO status, age range, and pupils on roll |
+| ISI BSO inspection entry (CIS Lagos) | https://www.isi.net/institutions/school/children-s-international-school-lagos-9473 | 2026-04-19 | Confirms ISI as the inspecting body for BSO accreditation |
+| Doris school profile (CIS Lagos) | https://www.doris.school/schools/nigeria/childrens-international-school | 2026-04-19 | Independent profile summarizing co-ed, day/boarding model, and international pathway |
 
 ### 15.2 Attachments stored in repo
 - ../../../../../reports/20251220-Nigeria Premium Secondary School Pipeline.md: Source report referenced for this profile.
@@ -271,8 +274,8 @@ Children’s International School (CIS) is a co-educational premium British scho
 
 ## 16. Update Log (Human-Readable)
 
-
 | Date (YYYY-MM-DD) | Updated by | Summary of changes |
 |---|---|---|
 | 2025-12-20 | EvoBuilder (agent) | Created profile stub from pipeline report data |
 | 2025-12-21 | EvoBuilder (agent) | Added verified contact details, curriculum detail from CIS site, term-date signals, outreach plan, and sources |
+| 2026-04-19 | EvoTicket Resolver (agent) | Refreshed accreditation and enrollment evidence, updated sources, and aligned profile with Nigeria schools dataset for ng-lagos-cis |
