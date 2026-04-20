@@ -1,11 +1,11 @@
 # T-505: Serbia — Populate `agents.csv` from existing agent profiles
 
-Status: on-deck
+Status: done
 Type: data
 Priority: P1
 Dependencies: (none)
-Claimed-by:
-Claimed-at:
+Claimed-by: codex-run-20251223
+Claimed-at: 2025-12-23T00:00:00Z
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -57,8 +57,10 @@ Create a usable, filterable Serbia agent dataset by populating `countries/serbia
 
 ## Acceptance criteria
 
-- [ ] `countries/serbia/data/entities/agents.csv` contains at least the agents listed in `countries/serbia/entities/agents/README.md`.
-- [ ] Uses the schema in `countries/serbia/data/entities/agents-dictionary.md` (services and markets are `;`-separated).
-- [ ] Every row has `as_of` populated (YYYY-MM-DD) and no placeholder emails/domains.
-- [ ] No edits outside allowed write paths.
+- [x] `countries/serbia/data/entities/agents.csv` contains at least the agents listed in `countries/serbia/entities/agents/README.md`.
+- [x] Uses the schema in `countries/serbia/data/entities/agents-dictionary.md` (services and markets are `;`-separated).
+- [x] Every row has `as_of` populated (YYYY-MM-DD) and no placeholder emails/domains.
+- [x] No edits outside allowed write paths.
 
+### What changed
+- Populated `countries/serbia/data/entities/agents.csv` with ten agents sourced from the Serbia agent profiles, including services, destinations, and compliance notes dated 2025-12-23.
