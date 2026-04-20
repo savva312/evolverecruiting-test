@@ -1,11 +1,12 @@
 # T-492: Romania — populate `countries/romania/data/entities/competitors.csv` (v1) + dictionary
 
-Status: on-deck
+Status: done
 Type: data
 Priority: P1
 Dependencies: T-155
-Claimed-by:
-Claimed-at:
+Claimed-by: codex-run-20251223
+Claimed-at: 2025-12-23T11:56:02Z
+Completed-at: 2025-12-23T11:57:53Z
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -66,9 +67,12 @@ This ticket is about the **entity index** (competitor institutions/providers). P
 
 ## Acceptance criteria
 
-- [ ] `countries/romania/data/entities/competitors.csv` contains rows for each existing competitor profile under `countries/romania/entities/competitors/profiles/`.
-- [ ] Each row includes a stable `competitor_id` and a working `profile_path`.
-- [ ] A `program_clusters` field (or equivalent) exists and is consistently populated.
-- [ ] Dictionary matches the dataset exactly.
-- [ ] No edits outside allowed paths.
+- [x] `countries/romania/data/entities/competitors.csv` contains rows for each existing competitor profile under `countries/romania/entities/competitors/profiles/`.
+- [x] Each row includes a stable `competitor_id` and a working `profile_path`.
+- [x] A `program_clusters` field (or equivalent) exists and is consistently populated.
+- [x] Dictionary matches the dataset exactly.
+- [x] No edits outside allowed paths.
 
+## Completion Notes
+- 2025-12-23 — Finalized competitor schema (clusters, tuition banding, admissions enums) in `competitors-dictionary.md` to cover Romania use cases.
+- 2025-12-23 — Populated `competitors.csv` with Carol Davila UMF and Ovidius Constanta data from the existing profiles, including stable IDs, tuition signals, and profile links.
