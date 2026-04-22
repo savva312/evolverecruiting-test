@@ -1,11 +1,11 @@
 # T-513: Serbia — Refresh fairs/events calendar to cover 2026–2027 (planning-ready)
 
-Status: on-deck
+Status: done
 Type: content
 Priority: P1
 Dependencies: (optional) T-451 (dataset can be built in parallel)
-Claimed-by:
-Claimed-at:
+Claimed-by: resolver-20251223
+Claimed-at: 2025-12-23T00:00:00Z
 Last-updated: 2025-12-23
 Agent: EvoTicket Resolver
 Research rounds: N/A
@@ -66,3 +66,5 @@ Update Serbia’s fairs/events calendar so it is forward-looking from **Dec 2025
 - [ ] Removes or flags any copy/paste artifacts (e.g., non-Serbia organizer domains) unless verified.
 - [ ] No edits outside allowed write paths.
 
+### Completion notes
+- 2026–2027 calendar refreshed on 2025-12-23 with future-dated priorities, lead capture plans, and staffing guidance for Serbia.
